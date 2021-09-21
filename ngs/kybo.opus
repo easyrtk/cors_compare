@@ -1,0 +1,46 @@
+   USER: mike@hyfix.ai                           DATE: September 01, 2021
+RINEX FILE: kybo2430.21o                            TIME: 01:18:30 UTC
+
+
+  SOFTWARE: page5  2008.25 master70.pl 160321      START: 2021/08/31  00:00:00
+ EPHEMERIS: igu21732.eph [ultra-rapid]              STOP: 2021/08/31  23:59:00
+  NAV FILE: brdc2430.21n                        OBS USED: 59697 / 62933   :  95%
+  ANT NAME: NONE            NONE             # FIXED AMB:   225 /   243   :  93%
+ARP HEIGHT: 0.000                            OVERALL RMS: 0.015(m)
+
+
+ REF FRAME: NAD_83(2011)(EPOCH:2010.0000)              ITRF2014 (EPOCH:2021.6644)
+     
+         X:       456196.343(m)   0.008(m)            456195.421(m)   0.008(m)
+         Y:     -4939809.612(m)   0.008(m)          -4939808.200(m)   0.008(m)
+         Z:      3995772.182(m)   0.011(m)           3995772.093(m)   0.011(m)
+
+       LAT:   39  2 18.03361      0.009(m)        39  2 18.06180      0.009(m)
+     E LON:  275 16 34.88218      0.008(m)       275 16 34.84942      0.008(m)
+     W LON:   84 43 25.11782      0.008(m)        84 43 25.15058      0.008(m)
+    EL HGT:          235.016(m)   0.013(m)               233.802(m)   0.013(m)
+ ORTHO HGT:          269.102(m)   0.042(m) [NAVD88 (Computed using GEOID18)]
+
+                        UTM COORDINATES    STATE PLANE COORDINATES
+                         UTM (Zone 16)         SPC (1600 KY1Z)
+Northing (Y) [meters]     4323497.286          1300720.104
+Easting (X)  [meters]      697018.067          1588869.594
+Convergence  [degrees]     1.43420278           0.63014167
+Point Scale                1.00007798           1.00011082
+Combined Factor            1.00004111           1.00007394
+
+US NATIONAL GRID DESIGNATOR: 16SFJ9701823497(NAD 83)
+
+
+                              BASE STATIONS USED
+PID       DESIGNATION                        LATITUDE    LONGITUDE DISTANCE(m)
+DK3322 KYTF KY HWY DIST 6 CORS ARP         N390240.928 W0843436.883   12723.5
+DM3503 INMD MADISON CORS ARP               N385003.078 W0852516.188   64586.8
+AJ7192 LEBA LEBANON CORS ARP               N392549.788 W0841659.283   57811.9
+
+                 NEAREST NGS PUBLISHED CONTROL POINT
+DH9007      BOONE COUNTY CORS ARP          N390218.033 W0844325.117       0.0
+
+This position and the above vector components were computed without any
+knowledge by the National Geodetic Survey regarding the equipment or
+field operating procedures used.

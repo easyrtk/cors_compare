@@ -1,0 +1,92 @@
+ <pre>                              ***ITRF2014***
+                LA MARQUE (TXLM),  TEXAS
+
+ Retrieved from NGS DataBase on 06/16/20 at 12:40:47.
+ _____________________________________________________________________________ 
+|                                                                             |
+|         Antenna Reference Point(ARP): LA MARQUE CORS ARP                    |
+|         ------------------------------------------------                    |
+|                             PID = DH3614                                    |
+|                                                                             |
+|                                                                             |
+| ITRF2014 POSITION (EPOCH 2010.0)                                            |
+| Computed in Jun 2019 using data through gpswk 1933.                         |
+|     X =   -487017.176 m     latitude    =  29 23 32.00408 N                 |
+|     Y =  -5540252.051 m     longitude   = 095 01 25.26888 W                 |
+|     Z =   3111843.088 m     ellipsoid height =  -17.491   m                 |
+|                                                                             |
+| ITRF2014 VELOCITY                                                           |
+| Computed in Jun 2019 using data through gpswk 1933.                         |
+|     VX =  -0.0132 m/yr      northward =  -0.0029 m/yr                       |
+|     VY =   0.0031 m/yr      eastward  =  -0.0134 m/yr                       |
+|     VZ =  -0.0044 m/yr      upward    =  -0.0038 m/yr                       |
+|                                                                             |
+|                                                                             |
+| NAD_83 (2011) POSITION (EPOCH 2010.0)                                       |
+| Transformed from ITRF2014 (epoch 2010.0) position in Jun 2019.              |
+|     X =   -487016.458 m     latitude    =  29 23 31.98665 N                 |
+|     Y =  -5540253.532 m     longitude   = 095 01 25.23755 W                 |
+|     Z =   3111843.268 m     ellipsoid height =  -16.172   m                 |
+|                                                                             |
+| NAD_83 (2011) VELOCITY                                                      |
+| Transformed from ITRF2014 velocity in Jun 2019.                             |
+|     VX =   0.0004 m/yr      northward =  -0.0003 m/yr                       |
+|     VY =   0.0038 m/yr      eastward  =   0.0001 m/yr                       |
+|     VZ =  -0.0025 m/yr      upward    =  -0.0046 m/yr                       |
+|_____________________________________________________________________________|
+|                                                                             |
+| L1 Phase Center of the current GPS antenna: LA MARQUE CORS L1PC             |
+| ------------------------------------------------------------------          |
+| The Zephyr GNSS Geodetic II - lead-based sol antenna                        |
+| (Antenna Code = TRM55971.00     NONE) was installed on 15Apr2008.           |
+|        The L2 phase center is 0.009 m below the L1 phase center.            |
+|                             PID = DK3564                                    |
+|                                                                             |
+|                                                                             |
+| ITRF2014 POSITION (EPOCH 2010.0)                                            |
+| Computed in Jun 2019 using data through gpswk 1933.                         |
+|     X =   -487017.181 m     latitude    =  29 23 32.00413 N                 |
+|     Y =  -5540252.108 m     longitude   = 095 01 25.26889 W                 |
+|     Z =   3111843.122 m     ellipsoid height =  -17.424   m                 |
+|                                                                             |
+| The ITRF2014 VELOCITY of the L1 PC is the same as that for the ARP.         |
+|                                                                             |
+|                                                                             |
+| NAD_83 (2011) POSITION (EPOCH 2010.0)                                       |
+| Transformed from ITRF2014 (epoch 2010.0) position in Jun 2019.              |
+|     X =   -487016.463 m     latitude    =  29 23 31.98669 N                 |
+|     Y =  -5540253.589 m     longitude   = 095 01 25.23756 W                 |
+|     Z =   3111843.302 m     ellipsoid height =  -16.105   m                 |
+|                                                                             |
+| The NAD_83 (2011) VELOCITY of the L1 PC is the same as that for the ARP.    |
+|_____________________________________________________________________________|
+
+
+ * Latitude, longitude and ellipsoid height are computed from their
+   corresponding cartesian coordinates using dimensions for the
+   GRS 80 ellipsoid: semi-major axis = 6,378,137.0 meters
+                          flattening = 1/298.257222101...
+
+
+ * WARNING: Mixing of antenna types can lead to errors of up to 10 cm.
+   in height unless antenna-phase-center variation and antenna-phase-center
+   offset are properly modeled.  See next comment.
+
+ * The coordinates shown on this page were computed using absolute antenna
+   calibrations.  CORS coordinates began using absolute antenna calibrations
+   beginning with IGS08 and NAD 83 (2011, MA11, PA11).  For additional
+   information on the derivation of these positions and velocities and
+   antenna calibrations consult:
+   http://geodesy.noaa.gov/CORS/coords.shtml
+   http://geodesy.noaa.gov/ANTCAL
+
+
+ * For more site specific information on the equipment history and
+   monumentation type consult:
+   ftp://geodesy.noaa.gov/cors/station_log/txlm.log.txt
+   http://geodesy.noaa.gov/cgi-cors/corsage_2.prl?site=txlm
+
+
+ * The position & velocity were revised in Aug 2011.
+ * The position & velocity were revised in Jun 2019.
+ </pre>

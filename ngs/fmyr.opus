@@ -1,0 +1,46 @@
+    USER: mike@hyfix.ai                           DATE: September 01, 2021
+RINEX FILE: fmyr242a.21o                            TIME: 19:41:47 UTC
+
+
+  SOFTWARE: page5  2008.25 master57.pl 160321      START: 2021/08/30  00:00:00
+ EPHEMERIS: igr21731.eph [rapid]                    STOP: 2021/08/30  21:59:00
+  NAV FILE: brdc2420.21n                        OBS USED: 55220 / 57955   :  95%
+  ANT NAME: NONE            NONE             # FIXED AMB:   195 /   223   :  87%
+ARP HEIGHT: 0.000                            OVERALL RMS: 0.016(m)
+
+
+ REF FRAME: NAD_83(2011)(EPOCH:2010.0000)              ITRF2014 (EPOCH:2021.6615)
+     
+         X:       807700.718(m)   0.008(m)            807699.878(m)   0.008(m)
+         Y:     -5649862.931(m)   0.007(m)          -5649861.351(m)   0.007(m)
+         Z:      2837756.024(m)   0.006(m)           2837755.853(m)   0.006(m)
+
+       LAT:   26 35 27.50845      0.004(m)        26 35 27.52796      0.004(m)
+     E LON:  278  8  9.02778      0.007(m)       278  8  9.00578      0.007(m)
+     W LON:   81 51 50.97222      0.007(m)        81 51 50.99422      0.007(m)
+    EL HGT:          -13.203(m)   0.009(m)               -14.784(m)   0.009(m)
+ ORTHO HGT:           10.958(m)   0.040(m) [NAVD88 (Computed using GEOID18)]
+
+                        UTM COORDINATES    STATE PLANE COORDINATES
+                         UTM (Zone 17)         SPC (0902 FL W)
+Northing (Y) [meters]     2941423.700           250093.751
+Easting (X)  [meters]      413952.318           213530.539
+Convergence  [degrees]    -0.38683611           0.06080556
+Point Scale                0.99969141           0.99994344
+Combined Factor            0.99969348           0.99994551
+
+US NATIONAL GRID DESIGNATOR: 17RMK1395241423(NAD 83)
+
+
+                              BASE STATIONS USED
+PID       DESIGNATION                        LATITUDE    LONGITUDE DISTANCE(m)
+DR4402 LBLL LBLL LABELLE CORS ARP          N264451.324 W0812712.291   44416.7
+DE9138 OKCB OKEECHOBEE CORS ARP            N271557.715 W0805119.181  125031.5
+DH3757 WACH WAUCHULA CORS ARP              N273051.042 W0815256.615  102309.9
+
+                 NEAREST NGS PUBLISHED CONTROL POINT
+DG4691      FORT MYERS CORS ARP            N263527.508 W0815150.972       0.0
+
+This position and the above vector components were computed without any
+knowledge by the National Geodetic Survey regarding the equipment or
+field operating procedures used.

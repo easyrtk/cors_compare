@@ -1,0 +1,46 @@
+USER: mike@hyfix.ai                           DATE: September 01, 2021
+RINEX FILE: pbch242a.21o                            TIME: 01:28:45 UTC
+
+
+  SOFTWARE: page5  2008.25 master78.pl 160321      START: 2021/08/30  00:00:00
+ EPHEMERIS: igr21731.eph [rapid]                    STOP: 2021/08/30  21:59:00
+  NAV FILE: brdc2420.21n                        OBS USED: 52456 / 57052   :  92%
+  ANT NAME: NONE            NONE             # FIXED AMB:   210 /   258   :  81%
+ARP HEIGHT: 0.000                            OVERALL RMS: 0.022(m)
+
+
+ REF FRAME: NAD_83(2011)(EPOCH:2010.0000)              ITRF2014 (EPOCH:2021.6615)
+     
+         X:       967387.005(m)   0.011(m)            967386.159(m)   0.011(m)
+         Y:     -5611813.924(m)   0.008(m)          -5611812.340(m)   0.008(m)
+         Z:      2863023.088(m)   0.003(m)           2863022.929(m)   0.003(m)
+
+       LAT:   26 50 46.63842      0.002(m)        26 50 46.65883      0.002(m)
+     E LON:  279 46 50.70004      0.010(m)       279 46 50.67959      0.010(m)
+     W LON:   80 13  9.29996      0.010(m)        80 13  9.32041      0.010(m)
+    EL HGT:          -15.219(m)   0.009(m)               -16.811(m)   0.009(m)
+ ORTHO HGT:           11.284(m)   0.044(m) [NAVD88 (Computed using GEOID18)]
+
+                        UTM COORDINATES    STATE PLANE COORDINATES
+                         UTM (Zone 17)         SPC (0901 FL E)
+Northing (Y) [meters]     2969649.140           278612.220
+Easting (X)  [meters]      577568.735           277595.210
+Convergence  [degrees]     0.35260278           0.35260278
+Point Scale                0.99967428           1.00001548
+Combined Factor            0.99967667           1.00001787
+
+US NATIONAL GRID DESIGNATOR: 17RNK7756869649(NAD 83)
+
+
+                              BASE STATIONS USED
+PID       DESIGNATION                        LATITUDE    LONGITUDE DISTANCE(m)
+DF9225 ZMA1 MIAMI WAAS 1 CORS ARP          N254928.585 W0801909.066  113632.4
+DR4402 LBLL LBLL LABELLE CORS ARP          N264451.324 W0812712.291  123199.7
+DE9138 OKCB OKEECHOBEE CORS ARP            N271557.715 W0805119.181   78389.5
+
+                 NEAREST NGS PUBLISHED CONTROL POINT
+DG9798      WEST PALM CORS ARP             N265046.638 W0801309.300       0.0
+
+This position and the above vector components were computed without any
+knowledge by the National Geodetic Survey regarding the equipment or
+field operating procedures used.

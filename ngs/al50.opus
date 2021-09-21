@@ -1,0 +1,46 @@
+ USER: mike@hyfix.ai                           DATE: August 31, 2021
+RINEX FILE: al502420.21o                            TIME: 17:09:31 UTC
+
+
+  SOFTWARE: page5  2008.25 master70.pl 160321      START: 2021/08/30  00:00:00
+ EPHEMERIS: igu21731.eph [ultra-rapid]              STOP: 2021/08/30  23:59:00
+  NAV FILE: brdc2420.21n                        OBS USED: 58185 / 63532   :  92%
+  ANT NAME: NONE            NONE             # FIXED AMB:   304 /   345   :  88%
+ARP HEIGHT: 0.000                            OVERALL RMS: 0.015(m)
+
+
+ REF FRAME: NAD_83(2011)(EPOCH:2010.0000)              ITRF2014 (EPOCH:2021.6616)
+     
+         X:       232978.514(m)   0.006(m)            232977.630(m)   0.006(m)
+         Y:     -5339308.570(m)   0.005(m)          -5339307.098(m)   0.005(m)
+         Z:      3469621.361(m)   0.003(m)           3469621.214(m)   0.003(m)
+
+       LAT:   33 10  4.68476      0.005(m)        33 10  4.70755      0.005(m)
+     E LON:  272 29 54.57365      0.006(m)       272 29 54.54204      0.006(m)
+     W LON:   87 30  5.42635      0.006(m)        87 30  5.45796      0.006(m)
+    EL HGT:           99.277(m)   0.003(m)                97.934(m)   0.003(m)
+ ORTHO HGT:          128.300(m)   0.041(m) [NAVD88 (Computed using GEOID18)]
+
+                        UTM COORDINATES    STATE PLANE COORDINATES
+                         UTM (Zone 16)         SPC (0102 AL W)
+Northing (Y) [meters]     3670020.104           351239.879
+Easting (X)  [meters]      453240.005           599859.413
+Convergence  [degrees]    -0.27437778          -0.00082500
+Point Scale                0.99962696           0.99993333
+Combined Factor            0.99961138           0.99991774
+
+US NATIONAL GRID DESIGNATOR: 16SDB5324070020(NAD 83)
+
+
+                              BASE STATIONS USED
+PID       DESIGNATION                        LATITUDE    LONGITUDE DISTANCE(m)
+DM3489 ALCE ADHR OFFICE CORS ARP           N325645.621 W0870902.274   40986.0
+DM3971 ALJA CRTHOUSE ANNEX 2 CORS ARP      N334954.796 W0871639.265   76521.8
+DL7329 AL35 ALDOT 3 DIV DIS 5 CORS ARP     N330954.408 W0864524.564   69463.7
+
+                 NEAREST NGS PUBLISHED CONTROL POINT
+DI2228      ALDOT 5 DIV OFF CORS ARP       N331004.685 W0873005.426       0.0
+
+This position and the above vector components were computed without any
+knowledge by the National Geodetic Survey regarding the equipment or
+field operating procedures used.

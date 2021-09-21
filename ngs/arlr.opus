@@ -1,0 +1,46 @@
+USER: mike@hyfix.ai                           DATE: August 31, 2021
+RINEX FILE: arlr2420.21o                            TIME: 17:07:06 UTC
+
+
+  SOFTWARE: page5  2008.25 master71.pl 160321      START: 2021/08/30  00:00:00
+ EPHEMERIS: igu21731.eph [ultra-rapid]              STOP: 2021/08/30  23:59:00
+  NAV FILE: brdc2420.21n                        OBS USED: 57883 / 61100   :  95%
+  ANT NAME: NONE            NONE             # FIXED AMB:   232 /   255   :  91%
+ARP HEIGHT: 0.000                            OVERALL RMS: 0.014(m)
+
+
+ REF FRAME: NAD_83(2011)(EPOCH:2010.0000)              ITRF2014 (EPOCH:2021.6616)
+     
+         X:      -218300.988(m)   0.005(m)           -218301.883(m)   0.005(m)
+         Y:     -5246694.855(m)   0.009(m)          -5246693.423(m)   0.009(m)
+         Z:      3608099.651(m)   0.003(m)           3608099.498(m)   0.003(m)
+
+       LAT:   34 40 21.44381      0.006(m)        34 40 21.46548      0.006(m)
+     E LON:  267 37  2.81845      0.005(m)       267 37  2.78098      0.005(m)
+     W LON:   92 22 57.18155      0.005(m)        92 22 57.21902      0.005(m)
+    EL HGT:           74.476(m)   0.007(m)                73.243(m)   0.007(m)
+ ORTHO HGT:          100.967(m)   0.039(m) [NAVD88 (Computed using GEOID18)]
+
+                        UTM COORDINATES    STATE PLANE COORDINATES
+                         UTM (Zone 15)         SPC (0301 AR N)
+Northing (Y) [meters]     3836912.610            37710.343
+Easting (X)  [meters]      556567.168           364937.087
+Convergence  [degrees]     0.35126944          -0.22260556
+Point Scale                0.99963944           1.00006147
+Combined Factor            0.99962775           1.00004978
+
+US NATIONAL GRID DESIGNATOR: 15SWU5656736912(NAD 83)
+
+
+                              BASE STATIONS USED
+PID       DESIGNATION                        LATITUDE    LONGITUDE DISTANCE(m)
+DH7101 ARCM CAMDEN CORS ARP                N333232.635 W0925257.804  133591.8
+DQ4723 ARRV RUSSELLVILLE CORS ARP          N351822.614 W0930751.346   98032.4
+DP9942 ARPB PINE BLUFF CORS ARP            N341137.045 W0915451.122   68384.8
+
+                 NEAREST NGS PUBLISHED CONTROL POINT
+DH7107      LITTLE ROCK CORS ARP           N344021.443 W0922257.181       0.0
+
+This position and the above vector components were computed without any
+knowledge by the National Geodetic Survey regarding the equipment or
+field operating procedures used.

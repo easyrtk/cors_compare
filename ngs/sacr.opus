@@ -1,0 +1,46 @@
+    USER: mike@hyfix.ai                           DATE: September 01, 2021
+RINEX FILE: sacr2420.21o                            TIME: 19:44:49 UTC
+
+
+  SOFTWARE: page5  2008.25 master57.pl 160321      START: 2021/08/30  00:00:00
+ EPHEMERIS: igr21731.eph [rapid]                    STOP: 2021/08/30  23:59:00
+  NAV FILE: brdc2420.21n                        OBS USED: 54449 / 59919   :  91%
+  ANT NAME: NONE            NONE             # FIXED AMB:   321 /   349   :  92%
+ARP HEIGHT: 0.000                            OVERALL RMS: 0.016(m)
+
+
+ REF FRAME: NAD_83(2011)(EPOCH:2010.0000)              ITRF2014 (EPOCH:2021.6617)
+     
+         X:     -2595053.408(m)   0.003(m)          -2595054.431(m)   0.003(m)
+         Y:     -4259028.414(m)   0.002(m)          -4259027.040(m)   0.002(m)
+         Z:      3962484.577(m)   0.002(m)           3962484.526(m)   0.002(m)
+
+       LAT:   38 39 17.97084      0.003(m)        38 39 17.98254      0.003(m)
+     E LON:  238 38 44.80688      0.003(m)       238 38 44.74118      0.003(m)
+     W LON:  121 21 15.19312      0.003(m)       121 21 15.25882      0.003(m)
+    EL HGT:            7.548(m)   0.000(m)                 7.015(m)   0.000(m)
+ ORTHO HGT:           38.002(m)   0.048(m) [NAVD88 (Computed using GEOID18)]
+
+                        UTM COORDINATES    STATE PLANE COORDINATES
+                         UTM (Zone 10)         SPC (0402 CA 2)
+Northing (Y) [meters]     4279776.688           609909.463
+Easting (X)  [meters]      643204.810          2056208.527
+Convergence  [degrees]     1.02817778           0.40714444
+Point Scale                0.99985254           0.99994262
+Combined Factor            0.99985136           0.99994144
+
+US NATIONAL GRID DESIGNATOR: 10SFH4320479776(NAD 83)
+
+
+                              BASE STATIONS USED
+PID       DESIGNATION                        LATITUDE    LONGITUDE DISTANCE(m)
+DN7510 ORVB OROVILLE DAM CORS ARP          N393316.644 W1213000.994  100672.9
+AF9652 CMBB COLUMBIA COLLEGE CORS ARP      N380203.021 W1202309.693  109151.5
+DE6246 CMOD MODESTO COOP CORS ARP          N373828.800 W1205959.864  116720.1
+
+                 NEAREST NGS PUBLISHED CONTROL POINT
+DH8725      SACRAMENTO COOP CORS ARP       N383917.971 W1212115.193       0.0
+
+This position and the above vector components were computed without any
+knowledge by the National Geodetic Survey regarding the equipment or
+field operating procedures used.

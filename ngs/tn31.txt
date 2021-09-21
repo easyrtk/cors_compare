@@ -1,0 +1,92 @@
+ <pre>                              ***ITRF2014***
+                TDOT DISTRICT 31 (TN31),  TENNESSEE
+
+ Retrieved from NGS DataBase on 06/16/20 at 12:38:39.
+ _____________________________________________________________________________ 
+|                                                                             |
+|         Antenna Reference Point(ARP): TDOT DISTRICT 31 CORS ARP             |
+|         -------------------------------------------------------             |
+|                             PID = DJ9550                                    |
+|                                                                             |
+|                                                                             |
+| ITRF2014 POSITION (EPOCH 2010.0)                                            |
+| Computed in Jun 2019 using data through gpswk 1933.                         |
+|     X =    281409.067 m     latitude    =  36 10 13.08114 N                 |
+|     Y =  -5147272.461 m     longitude   = 086 52 14.41048 W                 |
+|     Z =   3743528.874 m     ellipsoid height =  111.896   m                 |
+|                                                                             |
+| ITRF2014 VELOCITY                                                           |
+| Computed in Jun 2019 using data through gpswk 1933.                         |
+|     VX =  -0.0141 m/yr      northward =   0.0008 m/yr                       |
+|     VY =  -0.0010 m/yr      eastward  =  -0.0141 m/yr                       |
+|     VZ =   0.0011 m/yr      upward    =   0.0008 m/yr                       |
+|                                                                             |
+|                                                                             |
+| NAD_83 (2011) POSITION (EPOCH 2010.0)                                       |
+| Transformed from ITRF2014 (epoch 2010.0) position in Jun 2019.              |
+|     X =    281409.807 m     latitude    =  36 10 13.05618 N                 |
+|     Y =  -5147273.901 m     longitude   = 086 52 14.38405 W                 |
+|     Z =   3743529.002 m     ellipsoid height =  113.164   m                 |
+|                                                                             |
+| NAD_83 (2011) VELOCITY                                                      |
+| Transformed from ITRF2014 velocity in Jun 2019.                             |
+|     VX =   0.0017 m/yr      northward =   0.0000 m/yr                       |
+|     VY =   0.0001 m/yr      eastward  =   0.0017 m/yr                       |
+|     VZ =   0.0000 m/yr      upward    =   0.0000 m/yr                       |
+|_____________________________________________________________________________|
+|                                                                             |
+| L1 Phase Center of the current GPS antenna: TDOT DISTRICT 31 CORS L1PC      |
+| -------------------------------------------------------------------------   |
+| The Topcon GPS/GLONASS/Galileo antenna with antenna                         |
+| (Antenna Code = TPSG3_A1        NONE) was installed on 12Feb2007.           |
+|        The L2 phase center is 0.008 m above the L1 phase center.            |
+|                             PID = DJ9551                                    |
+|                                                                             |
+|                                                                             |
+| ITRF2014 POSITION (EPOCH 2010.0)                                            |
+| Computed in Jun 2019 using data through gpswk 1933.                         |
+|     X =    281409.068 m     latitude    =  36 10 13.08117 N                 |
+|     Y =  -5147272.487 m     longitude   = 086 52 14.41050 W                 |
+|     Z =   3743528.894 m     ellipsoid height =  111.929   m                 |
+|                                                                             |
+| The ITRF2014 VELOCITY of the L1 PC is the same as that for the ARP.         |
+|                                                                             |
+|                                                                             |
+| NAD_83 (2011) POSITION (EPOCH 2010.0)                                       |
+| Transformed from ITRF2014 (epoch 2010.0) position in Jun 2019.              |
+|     X =    281409.808 m     latitude    =  36 10 13.05621 N                 |
+|     Y =  -5147273.927 m     longitude   = 086 52 14.38408 W                 |
+|     Z =   3743529.022 m     ellipsoid height =  113.197   m                 |
+|                                                                             |
+| The NAD_83 (2011) VELOCITY of the L1 PC is the same as that for the ARP.    |
+|_____________________________________________________________________________|
+
+
+ * Latitude, longitude and ellipsoid height are computed from their
+   corresponding cartesian coordinates using dimensions for the
+   GRS 80 ellipsoid: semi-major axis = 6,378,137.0 meters
+                          flattening = 1/298.257222101...
+
+
+ * WARNING: Mixing of antenna types can lead to errors of up to 10 cm.
+   in height unless antenna-phase-center variation and antenna-phase-center
+   offset are properly modeled.  See next comment.
+
+ * The coordinates shown on this page were computed using absolute antenna
+   calibrations.  CORS coordinates began using absolute antenna calibrations
+   beginning with IGS08 and NAD 83 (2011, MA11, PA11).  For additional
+   information on the derivation of these positions and velocities and
+   antenna calibrations consult:
+   http://geodesy.noaa.gov/CORS/coords.shtml
+   http://geodesy.noaa.gov/ANTCAL
+
+
+ * For more site specific information on the equipment history and
+   monumentation type consult:
+   ftp://geodesy.noaa.gov/cors/station_log/tn31.log.txt
+   http://geodesy.noaa.gov/cgi-cors/corsage_2.prl?site=tn31
+
+
+ * The position & velocity were revised in Aug 2011.
+ * The position & velocity were revised in Jun 2019.
+ </pre>

@@ -1,0 +1,46 @@
+USER: mike@hyfix.ai                           DATE: August 29, 2021
+RINEX FILE: srdc2390.21o                            TIME: 03:14:05 UTC
+
+
+  SOFTWARE: page5  2008.25 master52.pl 160321      START: 2021/08/27  00:00:00
+ EPHEMERIS: igr21725.eph [rapid]                    STOP: 2021/08/27  23:59:00
+  NAV FILE: brdc2390.21n                        OBS USED: 59756 / 62502   :  96%
+  ANT NAME: NONE            NONE             # FIXED AMB:   272 /   287   :  95%
+ARP HEIGHT: 0.000                            OVERALL RMS: 0.015(m)
+
+
+ REF FRAME: NAD_83(2011)(EPOCH:2010.0000)              ITRF2014 (EPOCH:2021.6534)
+     
+         X:     -1050082.647(m)   0.004(m)          -1050083.606(m)   0.004(m)
+         Y:     -4468052.243(m)   0.009(m)          -4468050.962(m)   0.009(m)
+         Z:      4415386.648(m)   0.008(m)           4415386.560(m)   0.008(m)
+
+       LAT:   44  4 57.97304      0.004(m)        44  4 57.99418      0.004(m)
+     E LON:  256 46 27.66220      0.003(m)       256 46 27.60708      0.003(m)
+     W LON:  103 13 32.33780      0.003(m)       103 13 32.39292      0.003(m)
+    EL HGT:          983.166(m)   0.012(m)               982.366(m)   0.012(m)
+ ORTHO HGT:          999.011(m)   0.042(m) [NAVD88 (Computed using GEOID18)]
+
+                        UTM COORDINATES    STATE PLANE COORDINATES
+                         UTM (Zone 13)         SPC (4002 SD S)
+Northing (Y) [meters]     4882596.577           198384.166
+Easting (X)  [meters]      642059.832           368401.874
+Convergence  [degrees]     1.23461667          -1.99526944
+Point Scale                0.99984821           0.99993968
+Combined Factor            0.99969409           0.99978555
+
+US NATIONAL GRID DESIGNATOR: 13TFJ4205982596(NAD 83)
+
+
+                              BASE STATIONS USED
+PID       DESIGNATION                        LATITUDE    LONGITUDE DISTANCE(m)
+DR6239 WYGI WYGI GILLETTE CORS ARP         N441636.713 W1053359.190  188439.4
+DI2251 P043 NEWCASTLE_WY2006 CORS ARP      N435252.101 W1041108.484   80232.7
+DI2260 P054 TEREKALAKAMT2006 CORS ARP      N455046.833 W1042629.062  218218.2
+
+                 NEAREST NGS PUBLISHED CONTROL POINT
+DP1963      RAPID CITY CORS ARP            N440457.973 W1031332.337       0.0
+
+This position and the above vector components were computed without any
+knowledge by the National Geodetic Survey regarding the equipment or
+field operating procedures used.

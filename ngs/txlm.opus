@@ -1,0 +1,46 @@
+ USER: mike@hyfix.ai                           DATE: August 31, 2021
+RINEX FILE: txlm2420.21o                            TIME: 17:15:01 UTC
+
+
+  SOFTWARE: page5  2008.25 master52.pl 160321      START: 2021/08/30  00:00:00
+ EPHEMERIS: igu21731.eph [ultra-rapid]              STOP: 2021/08/30  23:59:00
+  NAV FILE: brdc2420.21n                        OBS USED: 58536 / 62190   :  94%
+  ANT NAME: NONE            NONE             # FIXED AMB:   246 /   283   :  87%
+ARP HEIGHT: 0.000                            OVERALL RMS: 0.016(m)
+
+
+ REF FRAME: NAD_83(2011)(EPOCH:2010.0000)              ITRF2014 (EPOCH:2021.6616)
+     
+         X:      -487016.475(m)   0.022(m)           -487017.332(m)   0.022(m)
+         Y:     -5540253.568(m)   0.021(m)          -5540252.088(m)   0.021(m)
+         Z:      3111843.283(m)   0.009(m)           3111843.075(m)   0.009(m)
+
+       LAT:   29 23 31.98649      0.004(m)        29 23 32.00291      0.004(m)
+     E LON:  264 58 34.76194      0.024(m)       264 58 34.72547      0.024(m)
+     W LON:   95  1 25.23806      0.024(m)        95  1 25.27453      0.024(m)
+    EL HGT:          -16.132(m)   0.021(m)               -17.453(m)   0.021(m)
+ ORTHO HGT:           10.728(m)   0.053(m) [NAVD88 (Computed using GEOID18)]
+
+                        UTM COORDINATES    STATE PLANE COORDINATES
+                         UTM (Zone 15)         SPC (4204 TXSC)
+Northing (Y) [meters]     3253143.843          4179325.682
+Easting (X)  [meters]      303621.356           985849.900
+Convergence  [degrees]    -0.99351111           1.94805000
+Point Scale                1.00007588           0.99986374
+Combined Factor            1.00007841           0.99986627
+
+US NATIONAL GRID DESIGNATOR: 15RUN0362153143(NAD 83)
+
+
+                              BASE STATIONS USED
+PID       DESIGNATION                        LATITUDE    LONGITUDE DISTANCE(m)
+DG6956 DWI1 CLUTE COOP CORS ARP            N290048.959 W0952413.153   55915.3
+DM7139 TXAC ANAHUAC CORS ARP               N294640.059 W0944017.231   54691.4
+AF9521 LKHU LAKE HOUSTON CORS ARP          N295448.440 W0950844.688   58973.5
+
+                 NEAREST NGS PUBLISHED CONTROL POINT
+DH3614      LA MARQUE CORS ARP             N292331.986 W0950125.237       0.0
+
+This position and the above vector components were computed without any
+knowledge by the National Geodetic Survey regarding the equipment or
+field operating procedures used.

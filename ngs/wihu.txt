@@ -1,0 +1,91 @@
+ <pre>                              ***ITRF2014***
+                HUDSON (WIHU),  WISCONSIN
+
+ Retrieved from NGS DataBase on 06/16/20 at 12:43:57.
+ _____________________________________________________________________________ 
+|                                                                             |
+|         Antenna Reference Point(ARP): HUDSON CORS ARP                       |
+|         ---------------------------------------------                       |
+|                             PID = DO7288                                    |
+|                                                                             |
+|                                                                             |
+| ITRF2014 POSITION (EPOCH 2010.0)                                            |
+| Computed in Jun 2019 using data through gpswk 1933.                         |
+|     X =   -205923.088 m     latitude    =  44 57 33.43876 N                 |
+|     Y =  -4516299.673 m     longitude   = 092 36 38.24443 W                 |
+|     Z =   4484350.709 m     ellipsoid height =  286.744   m                 |
+|                                                                             |
+| ITRF2014 VELOCITY                                                           |
+| Predicted with HTDP_3.2.7 Jun 2019.                                         |
+|     VX =  -0.0161 m/yr      northward =  -0.0021 m/yr                       |
+|     VY =  -0.0007 m/yr      eastward  =  -0.0161 m/yr                       |
+|     VZ =  -0.0016 m/yr      upward    =  -0.0001 m/yr                       |
+|                                                                             |
+|                                                                             |
+| NAD_83 (2011) POSITION (EPOCH 2010.0)                                       |
+| Transformed from ITRF2014 (epoch 2010.0) position in Jun 2019.              |
+|     X =   -205922.313 m     latitude    =  44 57 33.41052 N                 |
+|     Y =  -4516300.991 m     longitude   = 092 36 38.20637 W                 |
+|     Z =   4484350.756 m     ellipsoid height =  287.683   m                 |
+|                                                                             |
+| NAD_83 (2011) VELOCITY                                                      |
+| Transformed from ITRF2014 velocity in Jun 2019.                             |
+|     VX =   0.0023 m/yr      northward =  -0.0004 m/yr                       |
+|     VY =   0.0004 m/yr      eastward  =   0.0023 m/yr                       |
+|     VZ =  -0.0011 m/yr      upward    =  -0.0011 m/yr                       |
+|_____________________________________________________________________________|
+|                                                                             |
+| L1 Phase Center of the current GPS antenna: HUDSON CORS L1PC                |
+| ---------------------------------------------------------------             |
+| The Zephyr GNSS Geodetic II - RoHS compliant antenna                        |
+| (Antenna Code = TRM57971.00     NONE) was installed on 12Sep2012.           |
+|        The L2 phase center is 0.007 m below the L1 phase center.            |
+|                             PID = DP6313                                    |
+|                                                                             |
+|                                                                             |
+| ITRF2014 POSITION (EPOCH 2010.0)                                            |
+| Computed in Jun 2019 using data through gpswk 1933.                         |
+|     X =   -205923.090 m     latitude    =  44 57 33.43880 N                 |
+|     Y =  -4516299.718 m     longitude   = 092 36 38.24444 W                 |
+|     Z =   4484350.756 m     ellipsoid height =  286.809   m                 |
+|                                                                             |
+| The ITRF2014 VELOCITY of the L1 PC is the same as that for the ARP.         |
+|                                                                             |
+|                                                                             |
+| NAD_83 (2011) POSITION (EPOCH 2010.0)                                       |
+| Transformed from ITRF2014 (epoch 2010.0) position in Jun 2019.              |
+|     X =   -205922.315 m     latitude    =  44 57 33.41056 N                 |
+|     Y =  -4516301.036 m     longitude   = 092 36 38.20638 W                 |
+|     Z =   4484350.803 m     ellipsoid height =  287.748   m                 |
+|                                                                             |
+| The NAD_83 (2011) VELOCITY of the L1 PC is the same as that for the ARP.    |
+|_____________________________________________________________________________|
+
+
+ * Latitude, longitude and ellipsoid height are computed from their
+   corresponding cartesian coordinates using dimensions for the
+   GRS 80 ellipsoid: semi-major axis = 6,378,137.0 meters
+                          flattening = 1/298.257222101...
+
+
+ * WARNING: Mixing of antenna types can lead to errors of up to 10 cm.
+   in height unless antenna-phase-center variation and antenna-phase-center
+   offset are properly modeled.  See next comment.
+
+ * The coordinates shown on this page were computed using absolute antenna
+   calibrations.  CORS coordinates began using absolute antenna calibrations
+   beginning with IGS08 and NAD 83 (2011, MA11, PA11).  For additional
+   information on the derivation of these positions and velocities and
+   antenna calibrations consult:
+   http://geodesy.noaa.gov/CORS/coords.shtml
+   http://geodesy.noaa.gov/ANTCAL
+
+
+ * For more site specific information on the equipment history and
+   monumentation type consult:
+   ftp://geodesy.noaa.gov/cors/station_log/wihu.log.txt
+   http://geodesy.noaa.gov/cgi-cors/corsage_2.prl?site=wihu
+
+
+ * The position & velocity were revised in Jun 2019.
+ </pre>

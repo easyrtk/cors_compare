@@ -1,0 +1,68 @@
+FILE: ict5232u.21o OP1629592256796
+
+ 1009   WARNING! You selected antenna type ‘NONE’, so no calibration was applied.
+ 1009   Coordinates with reduced accuracy were computed for your antenna phase center.
+ 1009   For help identifying yours, or to add a new type, contact ngs.antcal@noaa.gov
+ 1009
+ 1008   NOTE: You provided a zero or negative antenna height.
+ 1008   If ARP HGT = 0.0, OPUS solves for the position of your selected antenna's reference point (ARP).
+ 1008   If ARP HGT < 0.0, OPUS solves for a location inside or above the antenna
+ 1008
+                              NGS OPUS-RS SOLUTION REPORT
+                              ========================
+
+All computed coordinate accuracies are listed as 1-sigma RMS values.
+For additional information: https://www.ngs.noaa.gov/OPUS/about.jsp#accuracy
+OPUS: the Online Positioning User Service, process your GNSS data in the National Spatial Reference System
+OPUS Planned Improvements. NGS continues to enhance the Online Positioning User Service (OPUS). The projects described below are in progress to further develop OPUS-Projects so that GNSS control surveys can be more efficiently completed according to NGS standards and guidelines, assessed for quality, submitted for review, and published in the NGS Integrated Database (IDB).
+www.ngs.noaa.gov
+
+
+      USER: mike@hyfix.ai                           DATE: August 22, 2021
+RINEX FILE: ict5232u.21o                            TIME: 00:32:17 UTC
+
+
+  SOFTWARE: rsgps  1.38 RS91.prl 1.99.3            START: 2021/08/20 20:00:00
+ EPHEMERIS: igr21715.eph [rapid]                    STOP: 2021/08/20 20:59:59
+  NAV FILE: brdc2320.21n                        OBS USED:  3425 /  3730   :  92%
+  ANT NAME: NONE                             QUALITY IND.   8.90/ 35.55
+ARP HEIGHT: 0.000                         NORMALIZED RMS:        0.448
+
+
+ REF FRAME: NAD_83(2011)(EPOCH:2010.0000)              ITRF2014 (EPOCH:2021.63522)
+    
+         X:      -669785.611(m)   0.011(m)           -669786.523(m)   0.011(m)
+         Y:     -5002659.831(m)   0.023(m)          -5002658.458(m)   0.023(m)
+         Z:      3887010.794(m)   0.024(m)           3887010.656(m)   0.024(m)
+
+       LAT:   37 47 12.02017      0.009(m)        37 47 12.04127      0.009(m)
+     E LON:  262 22 27.30788      0.009(m)       262 22 27.26350      0.009(m)
+     W LON:   97 37 32.69212      0.009(m)        97 37 32.73650      0.009(m)
+    EL HGT:          412.248(m)   0.032(m)               411.183(m)   0.032(m)
+ ORTHO HGT:          440.852(m)   0.039(m) [NAVD88 (Computed using GEOID18)]
+
+                        UTM COORDINATES    STATE PLANE COORDINATES
+                         UTM (Zone 14)         SPC (1502 KS S)
+Northing (Y) [meters]     4183035.572           524664.343
+Easting (X)  [meters]      621007.268           477003.764
+Convergence  [degrees]     0.84213889           0.53725278
+Point Scale                0.99978035           0.99993852
+Combined Factor            0.99971568           0.99987384
+
+US NATIONAL GRID DESIGNATOR: 14SPG2100783035(NAD 83)
+
+
+                              BASE STATIONS USED
+PID       DESIGNATION                        LATITUDE    LONGITUDE DISTANCE(m)
+DI3428 KSU1 KSU1_KSUN_KS2006 CORS ARP      N390602.677 W0963634.093  170732.8
+DG9769 OKPR PERRY CORS ARP                 N361634.464 W0971917.975  169799.1
+DQ7967 OKHN HENNESSY OK CORS ARP           N360845.659 W0980159.198  185657.6
+DQ9782 KSSL KSSL SALINA KS CORS ARP        N384759.760 W0973812.759  112483.6
+DQ8874 KSWK WAKEENEY KS CORS ARP           N390103.681 W0995205.227  238822.5
+
+                 NEAREST NGS PUBLISHED CONTROL POINT
+DK6495      WICHITA ICT5 CORS ARP          N374712.019 W0973732.691       0.0
+
+This position and the above vector components were computed without any
+knowledge by the National Geodetic Survey regarding the equipment or
+field operating procedures used.

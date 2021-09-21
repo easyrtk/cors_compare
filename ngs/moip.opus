@@ -1,0 +1,46 @@
+ USER: mike@hyfix.ai                           DATE: September 01, 2021
+RINEX FILE: moip2420.21o                            TIME: 01:28:43 UTC
+
+
+  SOFTWARE: page5  2008.25 master52.pl 160321      START: 2021/08/30  00:00:00
+ EPHEMERIS: igr21731.eph [rapid]                    STOP: 2021/08/30  23:59:00
+  NAV FILE: brdc2420.21n                        OBS USED: 57099 / 61247   :  93%
+  ANT NAME: NONE            NONE             # FIXED AMB:   319 /   358   :  89%
+ARP HEIGHT: 0.000                            OVERALL RMS: 0.016(m)
+
+
+ REF FRAME: NAD_83(2011)(EPOCH:2010.0000)              ITRF2014 (EPOCH:2021.6616)
+     
+         X:      -379062.463(m)   0.004(m)           -379063.385(m)   0.004(m)
+         Y:     -4940496.490(m)   0.011(m)          -4940495.120(m)   0.011(m)
+         Z:      4002992.212(m)   0.002(m)           4002992.090(m)   0.002(m)
+
+       LAT:   39  7 18.59729      0.006(m)        39  7 18.62072      0.006(m)
+     E LON:  265 36 45.15818      0.004(m)       265 36 45.11556      0.004(m)
+     W LON:   94 23 14.84182      0.004(m)        94 23 14.88444      0.004(m)
+    EL HGT:          274.184(m)   0.010(m)               273.102(m)   0.010(m)
+ ORTHO HGT:          306.808(m)   0.045(m) [NAVD88 (Computed using GEOID18)]
+
+                        UTM COORDINATES    STATE PLANE COORDINATES
+                         UTM (Zone 15)         SPC (2403 MO W)
+Northing (Y) [meters]     4331213.010           327980.071
+Easting (X)  [meters]      380061.639           859731.964
+Convergence  [degrees]    -0.87555000           0.07101111
+Point Scale                0.99977713           0.99994234
+Combined Factor            0.99973412           0.99989933
+
+US NATIONAL GRID DESIGNATOR: 15SUD8006131213(NAD 83)
+
+
+                              BASE STATIONS USED
+PID       DESIGNATION                        LATITUDE    LONGITUDE DISTANCE(m)
+DF9221 ZKC1 KANSAS CTY WAAS 1 CORS ARP     N385248.550 W0944726.963   44056.2
+DN5836 MOPL MODOT PLATTE CITY CORS ARP     N392304.071 W0944700.042   44922.4
+DM4128 MOWB MODOT WARRENSBURG CORS ARP     N384852.192 W0934428.618   65577.6
+
+                 NEAREST NGS PUBLISHED CONTROL POINT
+DR4005      MOIP INDEPENDENCE CORS ARP     N390718.597 W0942314.841       0.0
+
+This position and the above vector components were computed without any
+knowledge by the National Geodetic Survey regarding the equipment or
+field operating procedures used.

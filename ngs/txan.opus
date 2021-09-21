@@ -1,0 +1,69 @@
+ILE: txan2420_30s.21o OP1630429594116
+
+ 1009   WARNING! You selected antenna type ‘NONE’, so no calibration was applied.
+ 1009   Coordinates with reduced accuracy were computed for your antenna phase center.
+ 1009   For help identifying yours, or to add a new type, contact ngs.antcal@noaa.gov
+ 1009
+ 1008   NOTE: You provided a zero or negative antenna height.
+ 1008   If ARP HGT = 0.0, OPUS solves for the position of your selected antenna's reference point (ARP).
+ 1008   If ARP HGT < 0.0, OPUS solves for a location inside or above the antenna
+ 1008
+ 2005   NOTE:  The IGS precise and IGS rapid orbits were not available
+ 2005   at processing time.  The IGS ultra-rapid orbit was/will be used to
+ 2005   process the data.
+ 2005  
+                              NGS OPUS SOLUTION REPORT
+                              ========================
+
+All computed coordinate accuracies are listed as peak-to-peak values.
+For additional information: https://www.ngs.noaa.gov/OPUS/about.jsp#accuracy
+
+      USER: mike@hyfix.ai                           DATE: August 31, 2021
+RINEX FILE: txan2420.21o                            TIME: 17:07:58 UTC
+
+
+  SOFTWARE: page5  2008.25 master75.pl 160321      START: 2021/08/30  00:00:00
+ EPHEMERIS: igu21731.eph [ultra-rapid]              STOP: 2021/08/30  23:59:00
+  NAV FILE: brdc2420.21n                        OBS USED: 58340 / 62721   :  93%
+  ANT NAME: NONE            NONE             # FIXED AMB:   236 /   277   :  85%
+ARP HEIGHT: 0.000                            OVERALL RMS: 0.018(m)
+
+
+ REF FRAME: NAD_83(2011)(EPOCH:2010.0000)              ITRF2014 (EPOCH:2021.6616)
+     
+         X:      -828647.945(m)   0.005(m)           -828648.811(m)   0.005(m)
+         Y:     -5494333.167(m)   0.005(m)          -5494331.700(m)   0.005(m)
+         Z:      3121536.872(m)   0.005(m)           3121536.663(m)   0.005(m)
+
+       LAT:   29 29 28.34336      0.007(m)        29 29 28.35859      0.007(m)
+     E LON:  261 25 24.11944      0.004(m)       261 25 24.07955      0.004(m)
+     W LON:   98 34 35.88056      0.004(m)        98 34 35.92045      0.004(m)
+    EL HGT:          265.125(m)   0.004(m)               263.872(m)   0.004(m)
+ ORTHO HGT:          290.309(m)   0.044(m) [NAVD88 (Computed using GEOID18)]
+
+                        UTM COORDINATES    STATE PLANE COORDINATES
+                         UTM (Zone 14)         SPC (4204 TXSC)
+Northing (Y) [meters]     3262483.726          4183810.580
+Easting (X)  [meters]      541039.596           641050.272
+Convergence  [degrees]     0.20842222           0.20741389
+Point Scale                0.99962078           0.99986695
+Combined Factor            0.99957916           0.99982532
+
+US NATIONAL GRID DESIGNATOR: 14RNT4103962483(NAD 83)
+
+
+                              BASE STATIONS USED
+PID       DESIGNATION                        LATITUDE    LONGITUDE DISTANCE(m)
+DG5767 TXSM SAN MARCOS CORS ARP            N295240.526 W0975409.649   78057.9
+DJ7864 TXHO HONDO CORS ARP                 N292037.892 W0990803.985   56544.4
+DJ7862 TXBO BOERNE CORS ARP                N294915.135 W0984511.923   40350.2
+
+                 NEAREST NGS PUBLISHED CONTROL POINT
+AY2157      SAN ANTONIO RRP                N292928.342 W0983435.880       0.0
+
+This position and the above vector components were computed without any
+knowledge by the National Geodetic Survey regarding the equipment or
+field operating procedures used.
+ 8002   Was this collected on a published mark? Please help update
+ 8002   NGS records by sharing https://geodesy.noaa.gov/marks/sharing/ or
+ 8002   updating descriptions https://geodesy.noaa.gov/marks/recovery/

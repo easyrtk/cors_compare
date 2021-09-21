@@ -1,0 +1,46 @@
+USER: mike@hyfix.ai                           DATE: September 01, 2021
+RINEX FILE: pass2420.21o                            TIME: 19:42:48 UTC
+
+
+  SOFTWARE: page5  2008.25 master55.pl 160321      START: 2021/08/30  00:00:00
+ EPHEMERIS: igr21731.eph [rapid]                    STOP: 2021/08/30  21:59:30
+  NAV FILE: brdc2420.21n                        OBS USED: 58694 / 61833   :  95%
+  ANT NAME: NONE            NONE             # FIXED AMB:   251 /   268   :  94%
+ARP HEIGHT: 0.000                            OVERALL RMS: 0.018(m)
+
+
+ REF FRAME: NAD_83(2011)(EPOCH:2010.0000)              ITRF2014 (EPOCH:2021.6615)
+     
+         X:      1159578.334(m)   0.009(m)           1159577.389(m)   0.009(m)
+         Y:     -4706158.787(m)   0.003(m)          -4706157.364(m)   0.003(m)
+         Z:      4132205.113(m)   0.004(m)           4132205.078(m)   0.004(m)
+
+       LAT:   40 38 20.92578      0.002(m)        40 38 20.95886      0.002(m)
+     E LON:  283 50 30.22001      0.008(m)       283 50 30.19546      0.008(m)
+     W LON:   76  9 29.77999      0.008(m)        76  9 29.80454      0.008(m)
+    EL HGT:          165.771(m)   0.005(m)               164.528(m)   0.005(m)
+ ORTHO HGT:          199.864(m)   0.048(m) [NAVD88 (Computed using GEOID18)]
+
+                        UTM COORDINATES    STATE PLANE COORDINATES
+                         UTM (Zone 18)         SPC (3702 PA S)
+Northing (Y) [meters]     4499344.928           146205.443
+Easting (X)  [meters]      402057.173           734636.010
+Convergence  [degrees]    -0.75443333           1.03270278
+Point Scale                0.99971807           0.99996489
+Combined Factor            0.99969207           0.99993889
+
+US NATIONAL GRID DESIGNATOR: 18TVK0205799344(NAD 83)
+
+
+                              BASE STATIONS USED
+PID       DESIGNATION                        LATITUDE    LONGITUDE DISTANCE(m)
+DE8103 YORK YORK CORS ARP                  N395913.276 W0764424.537   87693.0
+DE7166 LYCO LYCOMING CNTY CTH CORS ARP     N411427.500 W0770008.348   97565.7
+AF9631 WIL1 WILKES BARRE CORS ARP          N411818.912 W0760055.100   74949.0
+
+                 NEAREST NGS PUBLISHED CONTROL POINT
+DJ8949      SCHUYLKILL HAVEN CORS ARP      N403820.925 W0760929.780       0.0
+
+This position and the above vector components were computed without any
+knowledge by the National Geodetic Survey regarding the equipment or
+field operating procedures used.

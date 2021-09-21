@@ -1,0 +1,46 @@
+USER: mike@hyfix.ai                           DATE: August 29, 2021
+RINEX FILE: njtw2400.21o                            TIME: 17:21:37 UTC
+
+
+  SOFTWARE: page5  2008.25 master75.pl 160321      START: 2021/08/28  00:00:00
+ EPHEMERIS: igu21726.eph [ultra-rapid]              STOP: 2021/08/28  23:59:00
+  NAV FILE: brdc2400.21n                        OBS USED: 59900 / 63164   :  95%
+  ANT NAME: NONE            NONE             # FIXED AMB:   218 /   255   :  85%
+ARP HEIGHT: 0.000                            OVERALL RMS: 0.019(m)
+
+
+ REF FRAME: NAD_83(2011)(EPOCH:2010.0000)              ITRF2014 (EPOCH:2021.6562)
+     
+         X:      1271653.066(m)   0.002(m)           1271652.127(m)   0.002(m)
+         Y:     -4729243.618(m)   0.009(m)          -4729242.182(m)   0.009(m)
+         Z:      4072560.721(m)   0.008(m)           4072560.686(m)   0.008(m)
+
+       LAT:   39 56 11.04331      0.005(m)        39 56 11.07636      0.005(m)
+     E LON:  285  3  1.28815      0.002(m)       285  3  1.26565      0.002(m)
+     W LON:   74 56 58.71185      0.002(m)        74 56 58.73435      0.002(m)
+    EL HGT:          -19.918(m)   0.012(m)               -21.191(m)   0.012(m)
+ ORTHO HGT:           12.831(m)   0.043(m) [NAVD88 (Computed using GEOID18)]
+
+                        UTM COORDINATES    STATE PLANE COORDINATES
+                         UTM (Zone 18)         SPC (2900   NJ)
+Northing (Y) [meters]     4420699.595           122550.250
+Easting (X)  [meters]      504302.514           111571.494
+Convergence  [degrees]     0.03232778          -0.28864444
+Point Scale                0.99960023           0.99991817
+Combined Factor            0.99960335           0.99992129
+
+US NATIONAL GRID DESIGNATOR: 18SWK0430220699(NAD 83)
+
+
+                              BASE STATIONS USED
+PID       DESIGNATION                        LATITUDE    LONGITUDE DISTANCE(m)
+DK4430 NJHC HUNTERDON COUNTY CORS ARP      N403005.805 W0745404.016   62896.5
+DK4426 DENE UNIV OF DELAWARE CORS ARP      N394036.249 W0754434.828   73802.7
+DF5884 PARL PSU ARL NRDC CORS ARP          N401146.224 W0750335.664   30339.5
+
+                 NEAREST NGS PUBLISHED CONTROL POINT
+DE6467      TWT COOP CORS ARP              N395611.043 W0745658.713       0.0
+
+This position and the above vector components were computed without any
+knowledge by the National Geodetic Survey regarding the equipment or
+field operating procedures used.

@@ -1,0 +1,46 @@
+ USER: mike@hyfix.ai                           DATE: September 01, 2021
+RINEX FILE: mami2420.21o                            TIME: 19:42:50 UTC
+
+
+  SOFTWARE: page5  2008.25 master52.pl 160321      START: 2021/08/30  00:00:00
+ EPHEMERIS: igr21731.eph [rapid]                    STOP: 2021/08/30  23:59:00
+  NAV FILE: brdc2420.21n                        OBS USED: 59843 / 62559   :  96%
+  ANT NAME: NONE            NONE             # FIXED AMB:   225 /   233   :  97%
+ARP HEIGHT: 0.000                            OVERALL RMS: 0.011(m)
+
+
+ REF FRAME: NAD_83(2011)(EPOCH:2010.0000)              ITRF2014 (EPOCH:2021.6616)
+     
+         X:      1535069.422(m)   0.005(m)           1535068.463(m)   0.005(m)
+         Y:     -4470500.625(m)   0.003(m)          -4470499.203(m)   0.003(m)
+         Z:      4268000.702(m)   0.006(m)           4268000.711(m)   0.006(m)
+
+       LAT:   42 16 19.38637      0.006(m)        42 16 19.42270      0.006(m)
+     E LON:  288 57  4.75002      0.004(m)       288 57  4.73058      0.004(m)
+     W LON:   71  2 55.24998      0.004(m)        71  2 55.26942      0.004(m)
+    EL HGT:          -17.385(m)   0.005(m)               -18.604(m)   0.005(m)
+ ORTHO HGT:           10.592(m)   0.040(m) [NAVD88 (Computed using GEOID18)]
+
+                        UTM COORDINATES    STATE PLANE COORDINATES
+                         UTM (Zone 19)         SPC (2001 MA M)
+Northing (Y) [meters]     4682014.694           891385.160
+Easting (X)  [meters]      331054.268           237231.002
+Convergence  [degrees]    -1.37837222           0.30316389
+Point Scale                0.99995120           0.99996532
+Combined Factor            0.99995393           0.99996805
+
+US NATIONAL GRID DESIGNATOR: 19TCG3105482014(NAD 83)
+
+
+                              BASE STATIONS USED
+PID       DESIGNATION                        LATITUDE    LONGITUDE DISTANCE(m)
+DO9467 MADA DARTMOUTH CORS ARP             N413822.848 W0710141.393   70259.2
+DO9480 MASA MASA SALISBURY CORS ARP        N425145.886 W0705324.946   66893.3
+DO9471 MAPL PLYMOUTH CORS ARP              N415619.314 W0703918.243   49304.9
+
+                 NEAREST NGS PUBLISHED CONTROL POINT
+DP2492      MILTON CORS ARP                N421619.386 W0710255.250       0.0
+
+This position and the above vector components were computed without any
+knowledge by the National Geodetic Survey regarding the equipment or
+field operating procedures used.

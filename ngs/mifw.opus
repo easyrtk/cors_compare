@@ -1,0 +1,46 @@
+ USER: mike@hyfix.ai                           DATE: August 29, 2021
+RINEX FILE: mifw240a.21o                            TIME: 17:20:20 UTC
+
+
+  SOFTWARE: page5  2008.25 master97.pl 160321      START: 2021/08/28  00:00:00
+ EPHEMERIS: igu21726.eph [ultra-rapid]              STOP: 2021/08/28  22:59:00
+  NAV FILE: brdc2400.21n                        OBS USED: 57181 / 59828   :  96%
+  ANT NAME: NONE            NONE             # FIXED AMB:   193 /   200   :  97%
+ARP HEIGHT: 0.000                            OVERALL RMS: 0.010(m)
+
+
+ REF FRAME: NAD_83(2011)(EPOCH:2010.0000)              ITRF2014 (EPOCH:2021.6561)
+     
+         X:       568228.628(m)   0.005(m)            568227.678(m)   0.005(m)
+         Y:     -4690532.130(m)   0.004(m)          -4690530.754(m)   0.004(m)
+         Z:      4270317.490(m)   0.009(m)           4270317.433(m)   0.009(m)
+
+       LAT:   42 17 56.08964      0.006(m)        42 17 56.12057      0.006(m)
+     E LON:  276 54 26.51810      0.005(m)       276 54 26.48416      0.005(m)
+     W LON:   83  5 33.48190      0.005(m)        83  5 33.51584      0.005(m)
+    EL HGT:          145.130(m)   0.006(m)               143.997(m)   0.006(m)
+ ORTHO HGT:          179.685(m)   0.038(m) [NAVD88 (Computed using GEOID18)]
+
+                        UTM COORDINATES    STATE PLANE COORDINATES
+                         UTM (Zone 17)         SPC (2113 MI S)
+Northing (Y) [meters]     4685085.649            89536.718
+Easting (X)  [meters]      327502.807          4105050.816
+Convergence  [degrees]    -1.40868611           0.86701667
+Point Scale                0.99996612           0.99995884
+Combined Factor            0.99994336           0.99993608
+
+US NATIONAL GRID DESIGNATOR: 17TLG2750285085(NAD 83)
+
+
+                              BASE STATIONS USED
+PID       DESIGNATION                        LATITUDE    LONGITUDE DISTANCE(m)
+DH7127 MIDT HOOVER YARD CORS ARP           N422637.160 W0830019.825   17607.3
+DK7841 MILI LIVONIA CORS ARP               N422606.156 W0832453.771   30554.2
+DE6350 SIBY SIBY CORS ARP                  N421012.555 W0831428.773   18847.3
+
+                 NEAREST NGS PUBLISHED CONTROL POINT
+DR3053      MIFW FORT WAYNE CORS ARP       N421756.089 W0830533.482       0.0
+
+This position and the above vector components were computed without any
+knowledge by the National Geodetic Survey regarding the equipment or
+field operating procedures used.

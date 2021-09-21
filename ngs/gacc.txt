@@ -1,0 +1,93 @@
+ <pre>                              ***ITRF2014***
+                COLUMBIA COUNTY (GACC),  GEORGIA
+
+ Retrieved from NGS DataBase on 05/18/21 at 21:42:15.
+ _____________________________________________________________________________ 
+|                                                                             |
+|         Antenna Reference Point(ARP): COLUMBIA COUNTY CORS ARP              |
+|         ------------------------------------------------------              |
+|                             PID = DF9211                                    |
+|                                                                             |
+|                                                                             |
+| ITRF2014 POSITION (EPOCH 2010.0)                                            |
+| Computed in May 2021 using 14 days of data.                                 |
+|     X =    728279.814 m     latitude    =  33 32 44.73057 N                 |
+|     Y =  -5271276.990 m     longitude   = 082 08 01.72064 W                 |
+|     Z =   3504619.773 m     ellipsoid height =   98.491   m                 |
+|                                                                             |
+| ITRF2014 VELOCITY                                                           |
+| Computed in Jun 2019 using data through gpswk 1933.                         |
+|     VX =  -0.0137 m/yr      northward =   0.0029 m/yr                       |
+|     VY =  -0.0001 m/yr      eastward  =  -0.0136 m/yr                       |
+|     VZ =   0.0023 m/yr      upward    =  -0.0002 m/yr                       |
+|                                                                             |
+|                                                                             |
+| NAD_83 (2011) POSITION (EPOCH 2010.0)                                       |
+| Transformed from ITRF2014 (epoch 2010.0) position in May 2021.              |
+|     X =    728280.547 m     latitude    =  33 32 44.70608 N                 |
+|     Y =  -5271278.485 m     longitude   = 082 08 01.70042 W                 |
+|     Z =   3504619.916 m     ellipsoid height =   99.888   m                 |
+|                                                                             |
+| NAD_83 (2011) VELOCITY                                                      |
+| Transformed from ITRF2014 velocity in May 2021.                             |
+|     VX =   0.0012 m/yr      northward =   0.0001 m/yr                       |
+|     VY =   0.0010 m/yr      eastward  =   0.0013 m/yr                       |
+|     VZ =  -0.0004 m/yr      upward    =  -0.0009 m/yr                       |
+|_____________________________________________________________________________|
+|                                                                             |
+| L1 Phase Center of the current GPS antenna: COLUMBIA COUNTY CORS L1PC       |
+| ------------------------------------------------------------------------    |
+| The Zephyr 3 Geodetic; switchable MSS filter antenna                        |
+| (Antenna Code = TRM115000.00    NONE) was installed on 15Oct2018.           |
+|        The L2 phase center is 0.007 m below the L1 phase center.            |
+|                             PID = DR1469                                    |
+|                                                                             |
+|                                                                             |
+| ITRF2014 POSITION (EPOCH 2010.0)                                            |
+| Computed in May 2021 using 14 days of data.                                 |
+|     X =    728279.821 m     latitude    =  33 32 44.73059 N                 |
+|     Y =  -5271277.044 m     longitude   = 082 08 01.72065 W                 |
+|     Z =   3504619.810 m     ellipsoid height =   98.557   m                 |
+|                                                                             |
+| The ITRF2014 VELOCITY of the L1 PC is the same as that for the ARP.         |
+|                                                                             |
+|                                                                             |
+| NAD_83 (2011) POSITION (EPOCH 2010.0)                                       |
+| Transformed from ITRF2014 (epoch 2010.0) position in May 2021.              |
+|     X =    728280.555 m     latitude    =  33 32 44.70610 N                 |
+|     Y =  -5271278.538 m     longitude   = 082 08 01.70042 W                 |
+|     Z =   3504619.952 m     ellipsoid height =   99.953   m                 |
+|                                                                             |
+| The NAD_83 (2011) VELOCITY of the L1 PC is the same as that for the ARP.    |
+|_____________________________________________________________________________|
+
+
+ * Latitude, longitude and ellipsoid height are computed from their
+   corresponding cartesian coordinates using dimensions for the
+   GRS 80 ellipsoid: semi-major axis = 6,378,137.0 meters
+                          flattening = 1/298.257222101...
+
+
+ * WARNING: Mixing of antenna types can lead to errors of up to 10 cm.
+   in height unless antenna-phase-center variation and antenna-phase-center
+   offset are properly modeled.  See next comment.
+
+ * The coordinates shown on this page were computed using absolute antenna
+   calibrations.  CORS coordinates began using absolute antenna calibrations
+   beginning with IGS08 and NAD 83 (2011, MA11, PA11).  For additional
+   information on the derivation of these positions and velocities and
+   antenna calibrations consult:
+   http://geodesy.noaa.gov/CORS/coords.shtml
+   http://geodesy.noaa.gov/ANTCAL
+
+
+ * For more site specific information on the equipment history and
+   monumentation type consult:
+   ftp://geodesy.noaa.gov/cors/station_log/gacc.log.txt
+   http://geodesy.noaa.gov/cgi-cors/corsage_2.prl?site=gacc
+
+
+ * The position & velocity were revised in Aug 2011.
+ * The position & velocity were revised in Jun 2019.
+ * The position & velocity were revised in May 2021.
+ </pre>

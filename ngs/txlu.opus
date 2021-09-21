@@ -1,0 +1,46 @@
+USER: mike@hyfix.ai                           DATE: August 31, 2021
+RINEX FILE: txlu2420.21o                            TIME: 17:07:21 UTC
+
+
+  SOFTWARE: page5  2008.25 master97.pl 160321      START: 2021/08/30  00:00:00
+ EPHEMERIS: igu21731.eph [ultra-rapid]              STOP: 2021/08/30  23:59:00
+  NAV FILE: brdc2420.21n                        OBS USED: 58842 / 63011   :  93%
+  ANT NAME: NONE            NONE             # FIXED AMB:   265 /   303   :  87%
+ARP HEIGHT: 0.000                            OVERALL RMS: 0.018(m)
+
+
+ REF FRAME: NAD_83(2011)(EPOCH:2010.0000)              ITRF2014 (EPOCH:2021.6616)
+     
+         X:     -1092364.631(m)   0.010(m)          -1092365.520(m)   0.010(m)
+         Y:     -5209400.957(m)   0.007(m)          -5209399.558(m)   0.007(m)
+         Z:      3504137.850(m)   0.008(m)           3504137.663(m)   0.008(m)
+
+       LAT:   33 32  7.49108      0.009(m)        33 32  7.50732      0.009(m)
+     E LON:  258  9 25.83763      0.011(m)       258  9 25.79278      0.011(m)
+     W LON:  101 50 34.16237      0.011(m)       101 50 34.20722      0.011(m)
+    EL HGT:          957.180(m)   0.001(m)               956.087(m)   0.001(m)
+ ORTHO HGT:          982.019(m)   0.045(m) [NAVD88 (Computed using GEOID18)]
+
+                        UTM COORDINATES    STATE PLANE COORDINATES
+                         UTM (Zone 14)         SPC (4202 TXNC)
+Northing (Y) [meters]     3714265.473          2212167.501
+Easting (X)  [meters]      236008.379           289583.844
+Convergence  [degrees]    -1.57143333          -1.82315556
+Point Scale                1.00045929           0.99990817
+Combined Factor            1.00030897           0.99975794
+
+US NATIONAL GRID DESIGNATOR: 14SKC3600814265(NAD 83)
+
+
+                              BASE STATIONS USED
+PID       DESIGNATION                        LATITUDE    LONGITUDE DISTANCE(m)
+DO9608 TXP1 POST CORS ARP                  N331057.072 W1012247.633   58217.0
+DP4773 TXM1 MORTON CORS ARP                N334416.169 W1024534.816   87988.1
+DO8869 TXLA LAMESA CORS ARP                N324540.901 W1015638.170   86376.6
+
+                 NEAREST NGS PUBLISHED CONTROL POINT
+AF9540      LUBBOCK RRP CORS ARP           N333207.490 W1015034.162       0.0
+
+This position and the above vector components were computed without any
+knowledge by the National Geodetic Survey regarding the equipment or
+field operating procedures used.

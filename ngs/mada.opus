@@ -1,0 +1,46 @@
+ USER: mike@hyfix.ai                           DATE: September 01, 2021
+RINEX FILE: mada2430.21o                            TIME: 01:18:34 UTC
+
+
+  SOFTWARE: page5  2008.25 master50.pl 160321      START: 2021/08/31  00:00:00
+ EPHEMERIS: igu21732.eph [ultra-rapid]              STOP: 2021/08/31  23:59:00
+  NAV FILE: brdc2430.21n                        OBS USED: 58800 / 62004   :  95%
+  ANT NAME: NONE            NONE             # FIXED AMB:   212 /   230   :  92%
+ARP HEIGHT: 0.000                            OVERALL RMS: 0.012(m)
+
+
+ REF FRAME: NAD_83(2011)(EPOCH:2010.0000)              ITRF2014 (EPOCH:2021.6644)
+     
+         X:      1551942.223(m)   0.002(m)           1551941.268(m)   0.002(m)
+         Y:     -4514375.219(m)   0.006(m)          -4514373.788(m)   0.006(m)
+         Z:      4215783.004(m)   0.006(m)           4215783.009(m)   0.006(m)
+
+       LAT:   41 38 22.84850      0.005(m)        41 38 22.88447      0.005(m)
+     E LON:  288 58 18.60614      0.003(m)       288 58 18.58721      0.003(m)
+     W LON:   71  1 41.39386      0.003(m)        71  1 41.41279      0.003(m)
+    EL HGT:            6.492(m)   0.007(m)                 5.252(m)   0.007(m)
+ ORTHO HGT:           35.865(m)   0.046(m) [NAVD88 (Computed using GEOID18)]
+
+                        UTM COORDINATES    STATE PLANE COORDINATES
+                         UTM (Zone 19)         SPC (2001 MA M)
+Northing (Y) [meters]     4611758.488           821157.839
+Easting (X)  [meters]      331083.772           239311.926
+Convergence  [degrees]    -1.34791944           0.31694444
+Point Scale                0.99995113           1.00001216
+Combined Factor            0.99995011           1.00001114
+
+US NATIONAL GRID DESIGNATOR: 19TCG3108311758(NAD 83)
+
+
+                              BASE STATIONS USED
+PID       DESIGNATION                        LATITUDE    LONGITUDE DISTANCE(m)
+AI3285 NPRI NAVAL STATION NEW CORS ARP     N413035.415 W0711939.124   28832.9
+DR6402 MAWR MAWR WRENTHAM CORS ARP         N420230.133 W0711815.039   50193.8
+DO9471 MAPL PLYMOUTH CORS ARP              N415619.314 W0703918.243   45440.4
+
+                 NEAREST NGS PUBLISHED CONTROL POINT
+DO9467      DARTMOUTH CORS ARP             N413822.848 W0710141.393       0.0
+
+This position and the above vector components were computed without any
+knowledge by the National Geodetic Survey regarding the equipment or
+field operating procedures used.

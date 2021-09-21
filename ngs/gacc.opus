@@ -1,0 +1,46 @@
+USER: mike@hyfix.ai                           DATE: September 01, 2021
+RINEX FILE: gacc2420.21o                            TIME: 19:41:40 UTC
+
+
+  SOFTWARE: page5  2008.25 master54.pl 160321      START: 2021/08/30  00:00:00
+ EPHEMERIS: igr21731.eph [rapid]                    STOP: 2021/08/30  23:59:00
+  NAV FILE: brdc2420.21n                        OBS USED: 60315 / 63607   :  95%
+  ANT NAME: NONE            NONE             # FIXED AMB:   257 /   289   :  89%
+ARP HEIGHT: 0.000                            OVERALL RMS: 0.019(m)
+
+
+ REF FRAME: NAD_83(2011)(EPOCH:2010.0000)              ITRF2014 (EPOCH:2021.6616)
+     
+         X:       728280.550(m)   0.004(m)            728279.663(m)   0.004(m)
+         Y:     -5271278.537(m)   0.003(m)          -5271277.047(m)   0.003(m)
+         Z:      3504619.947(m)   0.004(m)           3504619.827(m)   0.004(m)
+
+       LAT:   33 32 44.70598      0.003(m)        33 32 44.73139      0.003(m)
+     E LON:  277 51 58.29941      0.004(m)       277 51 58.27327      0.004(m)
+     W LON:   82  8  1.70059      0.004(m)        82  8  1.72673      0.004(m)
+    EL HGT:           99.949(m)   0.004(m)                98.551(m)   0.004(m)
+ ORTHO HGT:          129.593(m)   0.046(m) [NAVD88 (Computed using GEOID18)]
+
+                        UTM COORDINATES    STATE PLANE COORDINATES
+                         UTM (Zone 17)         SPC (1001 GA E)
+Northing (Y) [meters]     3712367.256           393124.761
+Easting (X)  [meters]      394738.770           203051.610
+Convergence  [degrees]    -0.62660278           0.01815833
+Point Scale                0.99973660           0.99990011
+Combined Factor            0.99972091           0.99988442
+
+US NATIONAL GRID DESIGNATOR: 17SLT9473812367(NAD 83)
+
+
+                              BASE STATIONS USED
+PID       DESIGNATION                        LATITUDE    LONGITUDE DISTANCE(m)
+DO8857 GAAU AUGUSTA UTILITIES CORS ARP     N332817.117 W0820201.783   12420.2
+DH4140 GACR COCHRAN CORS ARP               N322251.435 W0832046.405  171854.8
+DG7404 NCSH SHELBY CORS ARP                N351653.642 W0812928.115  201410.2
+
+                 NEAREST NGS PUBLISHED CONTROL POINT
+DF9211      COLUMBIA COUNTY CORS ARP       N333244.706 W0820801.700       0.0
+
+This position and the above vector components were computed without any
+knowledge by the National Geodetic Survey regarding the equipment or
+field operating procedures used.

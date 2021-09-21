@@ -1,0 +1,92 @@
+ <pre>                              ***ITRF2014***
+                MERIDIAN 2010 (MSME),  MISSISSIPPI
+
+ Retrieved from NGS DataBase on 06/16/20 at 12:21:19.
+ _____________________________________________________________________________ 
+|                                                                             |
+|         Antenna Reference Point(ARP): MERIDIAN 2010 CORS ARP                |
+|         ----------------------------------------------------                |
+|                             PID = DL7333                                    |
+|                                                                             |
+|                                                                             |
+| ITRF2014 POSITION (EPOCH 2010.0)                                            |
+| Computed in Jun 2019 using data through gpswk 1933.                         |
+|     X =    119287.116 m     latitude    =  32 22 03.04359 N                 |
+|     Y =  -5391117.980 m     longitude   = 088 43 56.80556 W                 |
+|     Z =   3394977.331 m     ellipsoid height =  101.854   m                 |
+|                                                                             |
+| ITRF2014 VELOCITY                                                           |
+| Computed in Jun 2019 using data through gpswk 1933.                         |
+|     VX =  -0.0129 m/yr      northward =   0.0001 m/yr                       |
+|     VY =  -0.0001 m/yr      eastward  =  -0.0129 m/yr                       |
+|     VZ =   0.0000 m/yr      upward    =  -0.0002 m/yr                       |
+|                                                                             |
+|                                                                             |
+| NAD_83 (2011) POSITION (EPOCH 2010.0)                                       |
+| Transformed from ITRF2014 (epoch 2010.0) position in Jun 2019.              |
+|     X =    119287.842 m     latitude    =  32 22 03.02202 N                 |
+|     Y =  -5391119.456 m     longitude   = 088 43 56.77903 W                 |
+|     Z =   3394977.490 m     ellipsoid height =  103.200   m                 |
+|                                                                             |
+| NAD_83 (2011) VELOCITY                                                      |
+| Transformed from ITRF2014 velocity in Jun 2019.                             |
+|     VX =   0.0017 m/yr      northward =   0.0001 m/yr                       |
+|     VY =   0.0008 m/yr      eastward  =   0.0017 m/yr                       |
+|     VZ =  -0.0004 m/yr      upward    =  -0.0009 m/yr                       |
+|_____________________________________________________________________________|
+|                                                                             |
+| L1 Phase Center of the current GPS antenna: MERIDIAN 2010 CORS L1PC         |
+| ----------------------------------------------------------------------      |
+| The Zephyr 3 Geodetic; switchable MSS filter antenna                        |
+| (Antenna Code = TRM115000.00    NONE) was installed on 10Mar2020.           |
+|        The L2 phase center is 0.007 m below the L1 phase center.            |
+|                             PID = DR4864                                    |
+|                                                                             |
+|                                                                             |
+| ITRF2014 POSITION (EPOCH 2010.0)                                            |
+| Computed in Jun 2019 using data through gpswk 1933.                         |
+|     X =    119287.117 m     latitude    =  32 22 03.04361 N                 |
+|     Y =  -5391118.034 m     longitude   = 088 43 56.80557 W                 |
+|     Z =   3394977.366 m     ellipsoid height =  101.920   m                 |
+|                                                                             |
+| The ITRF2014 VELOCITY of the L1 PC is the same as that for the ARP.         |
+|                                                                             |
+|                                                                             |
+| NAD_83 (2011) POSITION (EPOCH 2010.0)                                       |
+| Transformed from ITRF2014 (epoch 2010.0) position in Jun 2019.              |
+|     X =    119287.843 m     latitude    =  32 22 03.02204 N                 |
+|     Y =  -5391119.511 m     longitude   = 088 43 56.77903 W                 |
+|     Z =   3394977.526 m     ellipsoid height =  103.265   m                 |
+|                                                                             |
+| The NAD_83 (2011) VELOCITY of the L1 PC is the same as that for the ARP.    |
+|_____________________________________________________________________________|
+
+
+ * Latitude, longitude and ellipsoid height are computed from their
+   corresponding cartesian coordinates using dimensions for the
+   GRS 80 ellipsoid: semi-major axis = 6,378,137.0 meters
+                          flattening = 1/298.257222101...
+
+
+ * WARNING: Mixing of antenna types can lead to errors of up to 10 cm.
+   in height unless antenna-phase-center variation and antenna-phase-center
+   offset are properly modeled.  See next comment.
+
+ * The coordinates shown on this page were computed using absolute antenna
+   calibrations.  CORS coordinates began using absolute antenna calibrations
+   beginning with IGS08 and NAD 83 (2011, MA11, PA11).  For additional
+   information on the derivation of these positions and velocities and
+   antenna calibrations consult:
+   http://geodesy.noaa.gov/CORS/coords.shtml
+   http://geodesy.noaa.gov/ANTCAL
+
+
+ * For more site specific information on the equipment history and
+   monumentation type consult:
+   ftp://geodesy.noaa.gov/cors/station_log/msme.log.txt
+   http://geodesy.noaa.gov/cgi-cors/corsage_2.prl?site=msme
+
+
+ * The position & velocity were revised in Aug 2011.
+ * The position & velocity were revised in Jun 2019.
+ </pre>

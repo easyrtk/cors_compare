@@ -1,0 +1,46 @@
+USER: mike@hyfix.ai                           DATE: September 01, 2021
+RINEX FILE: pamm2420.21o                            TIME: 19:43:14 UTC
+
+
+  SOFTWARE: page5  2008.25 master53.pl 160321      START: 2021/08/30  00:00:00
+ EPHEMERIS: igr21731.eph [rapid]                    STOP: 2021/08/30  23:59:00
+  NAV FILE: brdc2420.21n                        OBS USED: 54675 / 62438   :  88%
+  ANT NAME: NONE            NONE             # FIXED AMB:   409 /   478   :  86%
+ARP HEIGHT: 0.000                            OVERALL RMS: 0.020(m)
+
+
+ REF FRAME: NAD_83(2011)(EPOCH:2010.0000)              ITRF2014 (EPOCH:2021.6616)
+     
+         X:       813988.785(m)   0.008(m)            813987.842(m)   0.008(m)
+         Y:     -4734635.115(m)   0.015(m)          -4734633.714(m)   0.015(m)
+         Z:      4181861.755(m)   0.019(m)           4181861.703(m)   0.019(m)
+
+       LAT:   41 13 46.29115      0.006(m)        41 13 46.32280      0.006(m)
+     E LON:  279 45 18.18184      0.010(m)       279 45 18.15210      0.010(m)
+     W LON:   80 14 41.81816      0.010(m)        80 14 41.84790      0.010(m)
+    EL HGT:          355.662(m)   0.023(m)               354.469(m)   0.023(m)
+ ORTHO HGT:          389.375(m)   0.059(m) [NAVD88 (Computed using GEOID18)]
+
+                        UTM COORDINATES    STATE PLANE COORDINATES
+                         UTM (Zone 17)         SPC (3701 PA N)
+Northing (Y) [meters]     4564511.875           121046.847
+Easting (X)  [meters]      563280.351           390853.684
+Convergence  [degrees]     0.49765278          -1.65050833
+Point Scale                0.99964928           0.99996219
+Combined Factor            0.99959352           0.99990641
+
+US NATIONAL GRID DESIGNATOR: 17TNF6328064511(NAD 83)
+
+
+                              BASE STATIONS USED
+PID       DESIGNATION                        LATITUDE    LONGITUDE DISTANCE(m)
+DI1860 OHMN MAHONING COUNTY CORS ARP       N410124.704 W0804621.639   49874.6
+AJ7190 GUST GUSTAVUS CORS ARP              N412745.873 W0804258.249   47186.0
+AI8355 UPTC UNIVERSITY OF PIT CORS ARP     N413743.701 W0793950.620   65760.5
+
+                 NEAREST NGS PUBLISHED CONTROL POINT
+DM4141      MERCER CORS ARP                N411346.291 W0801441.818       0.0
+
+This position and the above vector components were computed without any
+knowledge by the National Geodetic Survey regarding the equipment or
+field operating procedures used.

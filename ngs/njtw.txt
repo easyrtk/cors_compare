@@ -1,0 +1,118 @@
+ <pre>                              ***ITRF2014***
+                NJ TAYLOR WISEMAN (NJTW),  NEW JERSEY
+
+ Retrieved from NGS DataBase on 05/18/21 at 21:43:03.
+ _____________________________________________________________________________ 
+|                                                                             |
+|         Antenna Reference Point(ARP): NJ TAYLOR WISEMAN CORS ARP            |
+|         --------------------------------------------------------            |
+|                             PID = DF7058                                    |
+|                                                                             |
+|                                                                             |
+| ITRF2014 POSITION (EPOCH 2010.0)                                            |
+| Computed in May 2021 using 14 days of data.                                 |
+|     X =   1271652.284 m     latitude    =  39 56 11.07477 N                 |
+|     Y =  -4729242.125 m     longitude   = 074 56 58.72732 W                 |
+|     Z =   4072560.610 m     ellipsoid height =  -21.251   m                 |
+|                                                                             |
+| ITRF2014 VELOCITY                                                           |
+| Computed in Jun 2019 using data through gpswk 1933.                         |
+|     VX =  -0.0158 m/yr      northward =   0.0044 m/yr                       |
+|     VY =   0.0001 m/yr      eastward  =  -0.0152 m/yr                       |
+|     VZ =   0.0022 m/yr      upward    =  -0.0018 m/yr                       |
+|                                                                             |
+|                                                                             |
+| NAD_83 (2011) POSITION (EPOCH 2010.0)                                       |
+| Transformed from ITRF2014 (epoch 2010.0) position in May 2021.              |
+|     X =   1271653.048 m     latitude    =  39 56 11.04328 N                 |
+|     Y =  -4729243.575 m     longitude   = 074 56 58.71213 W                 |
+|     Z =   4072560.681 m     ellipsoid height =  -19.980   m                 |
+|                                                                             |
+| NAD_83 (2011) VELOCITY                                                      |
+| Transformed from ITRF2014 velocity in May 2021.                             |
+|     VX =   0.0010 m/yr      northward =  -0.0013 m/yr                       |
+|     VY =   0.0015 m/yr      eastward  =   0.0014 m/yr                       |
+|     VZ =  -0.0027 m/yr      upward    =  -0.0026 m/yr                       |
+|_____________________________________________________________________________|
+|                                                                             |
+| L1 Phase Center of the current GPS antenna: NJ TAYLOR WISEMAN CORS L1PC     |
+| --------------------------------------------------------------------------  |
+| The Zephyr 3 Geodetic; switchable MSS filter antenna                        |
+| (Antenna Code = TRM115000.00    NONE) was installed on 23Jan2020.           |
+|        The L2 phase center is 0.007 m below the L1 phase center.            |
+|                             PID = DR4806                                    |
+|                                                                             |
+|                                                                             |
+| ITRF2014 POSITION (EPOCH 2010.0)                                            |
+| Computed in May 2021 using 14 days of data.                                 |
+|     X =   1271652.297 m     latitude    =  39 56 11.07479 N                 |
+|     Y =  -4729242.173 m     longitude   = 074 56 58.72733 W                 |
+|     Z =   4072560.652 m     ellipsoid height =  -21.186   m                 |
+|                                                                             |
+| The ITRF2014 VELOCITY of the L1 PC is the same as that for the ARP.         |
+|                                                                             |
+|                                                                             |
+| NAD_83 (2011) POSITION (EPOCH 2010.0)                                       |
+| Transformed from ITRF2014 (epoch 2010.0) position in May 2021.              |
+|     X =   1271653.060 m     latitude    =  39 56 11.04330 N                 |
+|     Y =  -4729243.623 m     longitude   = 074 56 58.71213 W                 |
+|     Z =   4072560.723 m     ellipsoid height =  -19.914   m                 |
+|                                                                             |
+| The NAD_83 (2011) VELOCITY of the L1 PC is the same as that for the ARP.    |
+|_____________________________________________________________________________|
+|                                                                             |
+|         Monument: WISE                                                      |
+|         --------------                                                      |
+|                             PID = AB8757                                    |
+|         Inscribed: UNKNOWN                                                  |
+|                                                                             |
+|                                                                             |
+| ITRF2014 POSITION (EPOCH 2010.0)                                            |
+| Computed in May 2021 using 14 days of data.                                 |
+|     X =   1271652.275 m     latitude    =  39 56 11.07477 N                 |
+|     Y =  -4729242.091 m     longitude   = 074 56 58.72732 W                 |
+|     Z =   4072560.580 m     ellipsoid height =  -21.297   m                 |
+|                                                                             |
+| The ITRF2014 VELOCITY of the monument is the same as that for the ARP.      |
+|                                                                             |
+|                                                                             |
+| NAD_83 (2011) POSITION (EPOCH 2010.0)                                       |
+| Transformed from ITRF2014 (epoch 2010.0) position in May 2021.              |
+|     X =   1271653.038 m     latitude    =  39 56 11.04328 N                 |
+|     Y =  -4729243.541 m     longitude   = 074 56 58.71213 W                 |
+|     Z =   4072560.651 m     ellipsoid height =  -20.026   m                 |
+|                                                                             |
+| The NAD_83 (2011) VELOCITY of the monument is the same as that for the ARP. |
+|_____________________________________________________________________________|
+
+
+ * Latitude, longitude and ellipsoid height are computed from their
+   corresponding cartesian coordinates using dimensions for the
+   GRS 80 ellipsoid: semi-major axis = 6,378,137.0 meters
+                          flattening = 1/298.257222101...
+
+
+ * WARNING: Mixing of antenna types can lead to errors of up to 10 cm.
+   in height unless antenna-phase-center variation and antenna-phase-center
+   offset are properly modeled.  See next comment.
+
+ * The coordinates shown on this page were computed using absolute antenna
+   calibrations.  CORS coordinates began using absolute antenna calibrations
+   beginning with IGS08 and NAD 83 (2011, MA11, PA11).  For additional
+   information on the derivation of these positions and velocities and
+   antenna calibrations consult:
+   http://geodesy.noaa.gov/CORS/coords.shtml
+   http://geodesy.noaa.gov/ANTCAL
+
+
+ * For more site specific information on the equipment history and
+   monumentation type consult:
+   ftp://geodesy.noaa.gov/cors/station_log/njtw.log.txt
+   http://geodesy.noaa.gov/cgi-cors/corsage_2.prl?site=njtw
+
+
+ * The position & velocity were revised in Aug 2011.
+ * The position & velocity were revised in Jun 2019.
+ * The position & velocity were revised in May 2020.
+ * The position & velocity were revised in May 2021.
+ </pre>

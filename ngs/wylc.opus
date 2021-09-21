@@ -1,0 +1,46 @@
+ USER: mike@hyfix.ai                           DATE: September 01, 2021
+RINEX FILE: wylc2420.21o                            TIME: 19:44:16 UTC
+
+
+  SOFTWARE: page5  2008.25 master54.pl 160321      START: 2021/08/30  00:00:00
+ EPHEMERIS: igr21731.eph [rapid]                    STOP: 2021/08/30  23:59:00
+  NAV FILE: brdc2420.21n                        OBS USED: 48665 / 51839   :  94%
+  ANT NAME: NONE            NONE             # FIXED AMB:   259 /   268   :  97%
+ARP HEIGHT: 0.000                            OVERALL RMS: 0.014(m)
+
+
+ REF FRAME: NAD_83(2011)(EPOCH:2010.0000)              ITRF2014 (EPOCH:2021.6614)
+     
+         X:     -1227801.449(m)   0.002(m)          -1227802.392(m)   0.002(m)
+         Y:     -4655147.296(m)   0.004(m)          -4655145.992(m)   0.004(m)
+         Z:      4172376.724(m)   0.004(m)           4172376.603(m)   0.004(m)
+
+       LAT:   41  6 16.29461      0.001(m)        41  6 16.31340      0.001(m)
+     E LON:  255 13 28.70692      0.002(m)       255 13 28.65360      0.002(m)
+     W LON:  104 46 31.29308      0.002(m)       104 46 31.34640      0.002(m)
+    EL HGT:         1824.801(m)   0.006(m)              1823.952(m)   0.006(m)
+ ORTHO HGT:         1841.281(m)   0.042(m) [NAVD88 (Computed using GEOID18)]
+
+                        UTM COORDINATES    STATE PLANE COORDINATES
+                         UTM (Zone 13)         SPC (4901 WY E)
+Northing (Y) [meters]     4550384.887            67202.293
+Easting (X)  [meters]      518862.765           232868.641
+Convergence  [degrees]     0.14768611           0.25726111
+Point Scale                0.99960438           0.99995079
+Combined Factor            0.99931834           0.99966465
+
+US NATIONAL GRID DESIGNATOR: 13TEF1886250384(NAD 83)
+
+
+                              BASE STATIONS USED
+PID       DESIGNATION                        LATITUDE    LONGITUDE DISTANCE(m)
+DL2742 COFC FORT COLLINS CORS ARP          N403536.107 W1050937.568   65414.2
+DF9219 ZDV1 DENVER WAAS 1 CORS ARP         N401114.272 W1050737.959  106141.3
+DQ7576 TMG2 TABLE MOUNTAIN 2 CORS ARP      N400747.834 W1051358.999  114974.0
+
+                 NEAREST NGS PUBLISHED CONTROL POINT
+DG6515      LARAMIE COUNTY CORS ARP        N410616.294 W1044631.293       0.0
+
+This position and the above vector components were computed without any
+knowledge by the National Geodetic Survey regarding the equipment or
+field operating procedures used.

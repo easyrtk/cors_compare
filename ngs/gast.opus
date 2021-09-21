@@ -1,0 +1,46 @@
+ USER: mike@hyfix.ai                           DATE: September 01, 2021
+RINEX FILE: gast2420.21o                            TIME: 01:28:09 UTC
+
+
+  SOFTWARE: page5  2008.25 master75.pl 160321      START: 2021/08/30  00:00:00
+ EPHEMERIS: igr21731.eph [rapid]                    STOP: 2021/08/30  23:59:00
+  NAV FILE: brdc2420.21n                        OBS USED: 60218 / 63873   :  94%
+  ANT NAME: NONE            NONE             # FIXED AMB:   265 /   292   :  91%
+ARP HEIGHT: 0.000                            OVERALL RMS: 0.017(m)
+
+
+ REF FRAME: NAD_83(2011)(EPOCH:2010.0000)              ITRF2014 (EPOCH:2021.6616)
+     
+         X:       798178.059(m)   0.003(m)            798177.159(m)   0.003(m)
+         Y:     -5149235.732(m)   0.009(m)          -5149234.260(m)   0.009(m)
+         Z:      3666204.989(m)   0.008(m)           3666204.887(m)   0.008(m)
+
+       LAT:   35 18 39.79174      0.005(m)        35 18 39.81888      0.005(m)
+     E LON:  278 48 40.45853      0.004(m)       278 48 40.43225      0.004(m)
+     W LON:   81 11 19.54147      0.004(m)        81 11 19.56775      0.004(m)
+    EL HGT:          213.788(m)   0.011(m)               212.430(m)   0.011(m)
+ ORTHO HGT:          245.216(m)   0.041(m) [NAVD88 (Computed using GEOID18)]
+
+                        UTM COORDINATES    STATE PLANE COORDINATES
+                         UTM (Zone 17)         SPC (3200   NC)
+Northing (Y) [meters]     3907554.913           175361.647
+Easting (X)  [meters]      482840.626           410593.636
+Convergence  [degrees]    -0.10910833          -1.26328889
+Point Scale                0.99960363           0.99987313
+Combined Factor            0.99957009           0.99983958
+
+US NATIONAL GRID DESIGNATOR: 17SMV8284007554(NAD 83)
+
+
+                              BASE STATIONS USED
+PID       DESIGNATION                        LATITUDE    LONGITUDE DISTANCE(m)
+DM3523 NCHI HICKORY CORS ARP               N354431.010 W0811830.934   49029.8
+DG7404 NCSH SHELBY CORS ARP                N351653.642 W0812928.115   27698.9
+DF6318 NC77 I77 WELCOME CNTR CORS ARP      N350721.254 W0805458.467   32449.6
+
+                 NEAREST NGS PUBLISHED CONTROL POINT
+DE8425      GASTON CORS ARP                N351839.791 W0811119.541       0.0
+
+This position and the above vector components were computed without any
+knowledge by the National Geodetic Survey regarding the equipment or
+field operating procedures used.

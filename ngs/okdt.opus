@@ -1,0 +1,46 @@
+ USER: mike@hyfix.ai                           DATE: September 01, 2021
+RINEX FILE: okdt2420.21o                            TIME: 01:29:16 UTC
+
+
+  SOFTWARE: page5  2008.25 master90.pl 160321      START: 2021/08/30  00:00:00
+ EPHEMERIS: igr21731.eph [rapid]                    STOP: 2021/08/30  23:59:00
+  NAV FILE: brdc2420.21n                        OBS USED: 57135 / 61003   :  94%
+  ANT NAME: NONE            NONE             # FIXED AMB:   256 /   285   :  90%
+ARP HEIGHT: 0.000                            OVERALL RMS: 0.017(m)
+
+
+ REF FRAME: NAD_83(2011)(EPOCH:2010.0000)              ITRF2014 (EPOCH:2021.6616)
+     
+         X:      -679342.376(m)   0.016(m)           -679343.276(m)   0.016(m)
+         Y:     -5154774.831(m)   0.021(m)          -5154773.433(m)   0.021(m)
+         Z:      3682489.767(m)   0.026(m)           3682489.606(m)   0.026(m)
+
+       LAT:   35 29 24.45353      0.017(m)        35 29 24.47315      0.017(m)
+     E LON:  262 29 32.33414      0.015(m)       262 29 32.29148      0.015(m)
+     W LON:   97 30 27.66586      0.015(m)        97 30 27.70852      0.015(m)
+    EL HGT:          368.131(m)   0.030(m)               367.004(m)   0.030(m)
+ ORTHO HGT:          395.126(m)   0.057(m) [NAVD88 (Computed using GEOID18)]
+
+                        UTM COORDINATES    STATE PLANE COORDINATES
+                         UTM (Zone 14)         SPC (3501 OK N)
+Northing (Y) [meters]     3928421.948            54494.511
+Easting (X)  [meters]      635364.270           644673.378
+Convergence  [degrees]     0.86651389           0.29053889
+Point Scale                0.99982581           1.00001477
+Combined Factor            0.99976804           0.99995699
+
+US NATIONAL GRID DESIGNATOR: 14SPE3536428421(NAD 83)
+
+
+                              BASE STATIONS USED
+PID       DESIGNATION                        LATITUDE    LONGITUDE DISTANCE(m)
+DG9769 OKPR PERRY CORS ARP                 N361634.464 W0971917.975   88831.5
+DE8097 OKAD ADA CORS ARP                   N344801.214 W0964417.707  103794.9
+DQ7967 OKHN HENNESSY OK CORS ARP           N360845.659 W0980159.198   86899.1
+
+                 NEAREST NGS PUBLISHED CONTROL POINT
+DE6011      OKLAHOMA CITY CORS MON         N352924.453 W0973027.666       0.0
+
+This position and the above vector components were computed without any
+knowledge by the National Geodetic Survey regarding the equipment or
+field operating procedures used.

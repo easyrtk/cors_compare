@@ -1,0 +1,46 @@
+USER: mike@hyfix.ai                           DATE: September 01, 2021
+RINEX FILE: garf2430.21o                            TIME: 01:18:29 UTC
+
+
+  SOFTWARE: page5  2008.25 master57.pl 160321      START: 2021/08/31  00:00:00
+ EPHEMERIS: igu21732.eph [ultra-rapid]              STOP: 2021/08/31  23:59:00
+  NAV FILE: brdc2430.21n                        OBS USED: 57518 / 61333   :  94%
+  ANT NAME: NONE            NONE             # FIXED AMB:   250 /   277   :  90%
+ARP HEIGHT: 0.000                            OVERALL RMS: 0.016(m)
+
+
+ REF FRAME: NAD_83(2011)(EPOCH:2010.0000)              ITRF2014 (EPOCH:2021.6644)
+     
+         X:       698559.006(m)   0.004(m)            698558.062(m)   0.004(m)
+         Y:     -4739154.372(m)   0.016(m)          -4739152.980(m)   0.016(m)
+         Z:      4197329.775(m)   0.009(m)           4197329.717(m)   0.009(m)
+
+       LAT:   41 24 56.78165      0.003(m)        41 24 56.81275      0.003(m)
+     E LON:  278 23  6.39560      0.006(m)       278 23  6.36414      0.006(m)
+     W LON:   81 36 53.60440      0.006(m)        81 36 53.63586      0.006(m)
+    EL HGT:          254.249(m)   0.017(m)               253.075(m)   0.017(m)
+ ORTHO HGT:          288.360(m)   0.048(m) [NAVD88 (Computed using GEOID18)]
+
+                        UTM COORDINATES    STATE PLANE COORDINATES
+                         UTM (Zone 17)         SPC (3401 OH N)
+Northing (Y) [meters]     4585095.855           194608.844
+Easting (X)  [meters]      448613.003           673994.549
+Convergence  [degrees]    -0.40676944           0.58147222
+Point Scale                0.99963250           0.99995756
+Combined Factor            0.99959264           0.99991768
+
+US NATIONAL GRID DESIGNATOR: 17TMF4861385095(NAD 83)
+
+
+                              BASE STATIONS USED
+PID       DESIGNATION                        LATITUDE    LONGITUDE DISTANCE(m)
+DP6196 OHFH FAIRPORT HARBOR CORS ARP       N414535.079 W0811651.710   47271.5
+AJ7190 GUST GUSTAVUS CORS ARP              N412745.873 W0804258.249   75292.2
+DR6964 OHWY OHWY WOOSTER CORS ARP          N404911.258 W0815345.461   70273.3
+
+                 NEAREST NGS PUBLISHED CONTROL POINT
+DF5362      GARFIELD HTS CORS ARP          N412456.781 W0813653.604       0.0
+
+This position and the above vector components were computed without any
+knowledge by the National Geodetic Survey regarding the equipment or
+field operating procedures used.

@@ -1,0 +1,46 @@
+USER: mike@hyfix.ai                           DATE: August 31, 2021
+RINEX FILE: nvbm2420.21o                            TIME: 17:07:12 UTC
+
+
+  SOFTWARE: page5  2008.25 master51.pl 160321      START: 2021/08/30  00:00:00
+ EPHEMERIS: igu21731.eph [ultra-rapid]              STOP: 2021/08/30  23:59:00
+  NAV FILE: brdc2420.21n                        OBS USED: 59918 / 63289   :  95%
+  ANT NAME: NONE            NONE             # FIXED AMB:   264 /   284   :  93%
+ARP HEIGHT: 0.000                            OVERALL RMS: 0.017(m)
+
+
+ REF FRAME: NAD_83(2011)(EPOCH:2010.0000)              ITRF2014 (EPOCH:2021.6616)
+     
+         X:     -2197189.590(m)   0.014(m)          -2197190.541(m)   0.014(m)
+         Y:     -4678269.783(m)   0.009(m)          -4678268.454(m)   0.009(m)
+         Z:      3725900.163(m)   0.017(m)           3725900.003(m)   0.017(m)
+
+       LAT:   35 58 11.31996      0.007(m)        35 58 11.33098      0.007(m)
+     E LON:  244 50 32.99878      0.014(m)       244 50 32.94186      0.014(m)
+     W LON:  115  9 27.00122      0.014(m)       115  9 27.05814      0.014(m)
+    EL HGT:          713.342(m)   0.019(m)               712.602(m)   0.019(m)
+ ORTHO HGT:          741.409(m)   0.048(m) [NAVD88 (Computed using GEOID18)]
+
+                        UTM COORDINATES    STATE PLANE COORDINATES
+                         UTM (Zone 11)         SPC (2701 NV E)
+Northing (Y) [meters]     3982169.349          8135404.914
+Easting (X)  [meters]      666132.338           238405.571
+Convergence  [degrees]     1.08245556           0.25011944
+Point Scale                0.99994009           0.99991817
+Combined Factor            0.99982815           0.99980623
+
+US NATIONAL GRID DESIGNATOR: 11SPV6613282169(NAD 83)
+
+
+                              BASE STATIONS USED
+PID       DESIGNATION                        LATITUDE    LONGITUDE DISTANCE(m)
+DN8733 AZDS DOLAN SPRINGS CORS ARP         N353159.266 W1142133.191   86961.3
+DJ3669 NVCA CARLTON SQUARE 2 CORS ARP      N361311.193 W1151019.354   27770.2
+DJ8975 NVTP TROPICANA CORS ARP             N360557.012 W1151944.483   21097.7
+
+                 NEAREST NGS PUBLISHED CONTROL POINT
+DJ8973      BERMUDA CORS ARP               N355811.319 W1150927.000       0.0
+
+This position and the above vector components were computed without any
+knowledge by the National Geodetic Survey regarding the equipment or
+field operating procedures used.

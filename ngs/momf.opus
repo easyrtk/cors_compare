@@ -1,0 +1,47 @@
+
+      USER: mike@hyfix.ai                           DATE: August 31, 2021
+RINEX FILE: momf2420.21o                            TIME: 17:09:29 UTC
+
+
+  SOFTWARE: page5  2008.25 master93.pl 160321      START: 2021/08/30  00:00:00
+ EPHEMERIS: igu21731.eph [ultra-rapid]              STOP: 2021/08/30  23:59:00
+  NAV FILE: brdc2420.21n                        OBS USED: 59709 / 62424   :  96%
+  ANT NAME: NONE            NONE             # FIXED AMB:   212 /   229   :  93%
+ARP HEIGHT: 0.000                            OVERALL RMS: 0.017(m)
+
+
+ REF FRAME: NAD_83(2011)(EPOCH:2010.0000)              ITRF2014 (EPOCH:2021.6616)
+     
+         X:      -261330.982(m)   0.010(m)           -261331.894(m)   0.010(m)
+         Y:     -5070389.502(m)   0.005(m)          -5070388.104(m)   0.005(m)
+         Z:      3848246.698(m)   0.015(m)           3848246.565(m)   0.015(m)
+
+       LAT:   37 20 45.75178      0.010(m)        37 20 45.77489      0.010(m)
+     E LON:  267  2 58.38403      0.010(m)       267  2 58.34411      0.010(m)
+     W LON:   92 57  1.61597      0.010(m)        92 57  1.65589      0.010(m)
+    EL HGT:          416.512(m)   0.012(m)               415.358(m)   0.012(m)
+ ORTHO HGT:          445.547(m)   0.051(m) [NAVD88 (Computed using GEOID18)]
+
+                        UTM COORDINATES    STATE PLANE COORDINATES
+                         UTM (Zone 15)         SPC (2402 MO C)
+Northing (Y) [meters]     4133262.226           167949.260
+Easting (X)  [meters]      504388.804           460089.774
+Convergence  [degrees]     0.03005833          -0.27325833
+Point Scale                0.99960024           0.99995295
+Combined Factor            0.99953491           0.99988760
+
+US NATIONAL GRID DESIGNATOR: 15SWB0438833262(NAD 83)
+
+
+                              BASE STATIONS USED
+PID       DESIGNATION                        LATITUDE    LONGITUDE DISTANCE(m)
+DM4668 MOBU MODOT BUFFALO CORS ARP         N373935.054 W0930610.474   37337.1
+DL5388 MOSF MODOT SPRINGFIELD CORS ARP     N371430.334 W0931347.543   27347.6
+DM4680 MOMG MODOT MTN GROVE CORS ARP       N370751.669 W0921839.950   61549.8
+
+                 NEAREST NGS PUBLISHED CONTROL POINT
+DN5832      MODOT MARSHFIELD CORS ARP      N372045.751 W0925701.615       0.0
+
+This position and the above vector components were computed without any
+knowledge by the National Geodetic Survey regarding the equipment or
+field operating procedures used.

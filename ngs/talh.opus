@@ -1,0 +1,46 @@
+ USER: mike@hyfix.ai                           DATE: September 01, 2021
+RINEX FILE: talh242a.21o                            TIME: 19:41:49 UTC
+
+
+  SOFTWARE: page5  2008.25 master51.pl 160321      START: 2021/08/30  00:00:00
+ EPHEMERIS: igr21731.eph [rapid]                    STOP: 2021/08/30  21:59:00
+  NAV FILE: brdc2420.21n                        OBS USED: 53503 / 57551   :  93%
+  ANT NAME: NONE            NONE             # FIXED AMB:   217 /   254   :  85%
+ARP HEIGHT: 0.000                            OVERALL RMS: 0.016(m)
+
+
+ REF FRAME: NAD_83(2011)(EPOCH:2010.0000)              ITRF2014 (EPOCH:2021.6615)
+     
+         X:       541528.340(m)   0.003(m)            541527.477(m)   0.003(m)
+         Y:     -5479447.354(m)   0.009(m)          -5479445.835(m)   0.009(m)
+         Z:      3208362.262(m)   0.008(m)           3208362.106(m)   0.008(m)
+
+       LAT:   30 23 47.48363      0.005(m)        30 23 47.50552      0.005(m)
+     E LON:  275 38 38.96444      0.002(m)       275 38 38.93784      0.002(m)
+     W LON:   84 21 21.03556      0.002(m)        84 21 21.06216      0.002(m)
+    EL HGT:           -5.744(m)   0.013(m)                -7.200(m)   0.013(m)
+ ORTHO HGT:           22.031(m)   0.042(m) [NAVD88 (Computed using GEOID18)]
+
+                        UTM COORDINATES    STATE PLANE COORDINATES
+                         UTM (Zone 16)         SPC (0903 FL N)
+Northing (Y) [meters]     3365692.076           154810.692
+Easting (X)  [meters]      754047.177           613852.916
+Convergence  [degrees]     1.33861111           0.07244167
+Point Scale                1.00039628           0.99995640
+Combined Factor            1.00039718           0.99995730
+
+US NATIONAL GRID DESIGNATOR: 16RGU5404765692(NAD 83)
+
+
+                              BASE STATIONS USED
+PID       DESIGNATION                        LATITUDE    LONGITUDE DISTANCE(m)
+DL2033 GABY BLAKELY CORS ARP               N312239.297 W0845606.664  122059.4
+DQ0907 FLCB CARABELLE CORS ARP             N295033.361 W0844142.532   69567.9
+DQ4190 GAAY ALBANY GA CORS ARP             N313940.898 W0841629.626  140443.0
+
+                 NEAREST NGS PUBLISHED CONTROL POINT
+DE6016      TALLAHASSEE CORS ARP           N302347.483 W0842121.035       0.0
+
+This position and the above vector components were computed without any
+knowledge by the National Geodetic Survey regarding the equipment or
+field operating procedures used.

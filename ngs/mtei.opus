@@ -1,0 +1,46 @@
+ USER: mike@hyfix.ai                           DATE: September 01, 2021
+RINEX FILE: mtei2430.21o                            TIME: 01:20:02 UTC
+
+
+  SOFTWARE: page5  2008.25 master93.pl 160321      START: 2021/08/31  00:00:00
+ EPHEMERIS: igu21732.eph [ultra-rapid]              STOP: 2021/08/31  23:59:00
+  NAV FILE: brdc2430.21n                        OBS USED: 59458 / 63285   :  94%
+  ANT NAME: NONE            NONE             # FIXED AMB:   238 /   258   :  92%
+ARP HEIGHT: 0.000                            OVERALL RMS: 0.014(m)
+
+
+ REF FRAME: NAD_83(2011)(EPOCH:2010.0000)              ITRF2014 (EPOCH:2021.6644)
+     
+         X:     -1422328.208(m)   0.003(m)          -1422329.184(m)   0.003(m)
+         Y:     -4226312.838(m)   0.002(m)          -4226311.597(m)   0.002(m)
+         Z:      4546317.482(m)   0.004(m)           4546317.407(m)   0.004(m)
+
+       LAT:   45 44 47.03550      0.005(m)        45 44 47.05390      0.005(m)
+     E LON:  251 23 59.26358      0.003(m)       251 23 59.20249      0.003(m)
+     W LON:  108 36  0.73642      0.003(m)       108 36  0.79751      0.003(m)
+    EL HGT:          970.910(m)   0.002(m)               970.253(m)   0.002(m)
+ ORTHO HGT:          984.125(m)   0.040(m) [NAVD88 (Computed using GEOID18)]
+
+                        UTM COORDINATES    STATE PLANE COORDINATES
+                         UTM (Zone 12)         SPC (2500   MT)
+Northing (Y) [meters]     5068672.106           166704.161
+Easting (X)  [meters]      686667.470           669991.708
+Convergence  [degrees]     1.71936667           0.65820278
+Point Scale                1.00002840           0.99963407
+Combined Factor            0.99987621           0.99948194
+
+US NATIONAL GRID DESIGNATOR: 12TXR8666768672(NAD 83)
+
+
+                              BASE STATIONS USED
+PID       DESIGNATION                        LATITUDE    LONGITUDE DISTANCE(m)
+DQ9786 MTBR MTBR BRIDGER CORS ARP          N451611.092 W1085451.420   58394.8
+DM7133 MTLW LEWISTOWN CORS ARP             N470314.929 W1092633.764  159174.5
+DQ9796 MTLG MTLG LODGE GRASS CORS ARP      N451844.662 W1072030.205  109519.1
+
+                 NEAREST NGS PUBLISHED CONTROL POINT
+DG9745      ENGINC CORS ARP                N454447.035 W1083600.736       0.0
+
+This position and the above vector components were computed without any
+knowledge by the National Geodetic Survey regarding the equipment or
+field operating procedures used.

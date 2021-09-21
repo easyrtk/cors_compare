@@ -1,0 +1,46 @@
+USER: mike@hyfix.ai                           DATE: September 01, 2021
+RINEX FILE: ingy2430.21o                            TIME: 01:17:59 UTC
+
+
+  SOFTWARE: page5  2008.25 master90.pl 160321      START: 2021/08/31  00:00:00
+ EPHEMERIS: igu21732.eph [ultra-rapid]              STOP: 2021/08/31  23:59:00
+  NAV FILE: brdc2430.21n                        OBS USED: 56633 / 62231   :  91%
+  ANT NAME: NONE            NONE             # FIXED AMB:   311 /   318   :  98%
+ARP HEIGHT: 0.000                            OVERALL RMS: 0.014(m)
+
+
+ REF FRAME: NAD_83(2011)(EPOCH:2010.0000)              ITRF2014 (EPOCH:2021.6644)
+     
+         X:       229481.073(m)   0.003(m)            229480.129(m)   0.003(m)
+         Y:     -4771570.999(m)   0.011(m)          -4771569.630(m)   0.011(m)
+         Z:      4212189.645(m)   0.005(m)           4212189.566(m)   0.005(m)
+
+       LAT:   41 35 42.65002      0.006(m)        41 35 42.67849      0.006(m)
+     E LON:  272 45 12.33821      0.003(m)       272 45 12.30034      0.003(m)
+     W LON:   87 14 47.66179      0.003(m)        87 14 47.69966      0.003(m)
+    EL HGT:          159.462(m)   0.009(m)               158.353(m)   0.009(m)
+ ORTHO HGT:          193.092(m)   0.044(m) [NAVD88 (Computed using GEOID18)]
+
+                        UTM COORDINATES    STATE PLANE COORDINATES
+                         UTM (Zone 16)         SPC (1302 IN W)
+Northing (Y) [meters]     4604860.530           704669.417
+Easting (X)  [meters]      479450.511           886390.564
+Convergence  [degrees]    -0.16369167          -0.10836944
+Point Scale                0.99960520           0.99996895
+Combined Factor            0.99958020           0.99994394
+
+US NATIONAL GRID DESIGNATOR: 16TDM7945004860(NAD 83)
+
+
+                              BASE STATIONS USED
+PID       DESIGNATION                        LATITUDE    LONGITUDE DISTANCE(m)
+DM5383 INLW LOWELL CORS ARP                N411724.484 W0871857.458   34372.7
+DM3501 INLP LAPORTE CORS ARP               N413506.733 W0864133.072   46211.5
+DF5765 CALU CALUMET HARBOR CORS ARP        N414347.414 W0873218.353   28541.1
+
+                 NEAREST NGS PUBLISHED CONTROL POINT
+DM5381      GARY CORS ARP                  N413542.649 W0871447.661       0.0
+
+This position and the above vector components were computed without any
+knowledge by the National Geodetic Survey regarding the equipment or
+field operating procedures used.

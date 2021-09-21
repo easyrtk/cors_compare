@@ -1,0 +1,92 @@
+ <pre>                              ***ITRF2014***
+                BOONE COUNTY (KYBO),  KENTUCKY
+
+ Retrieved from NGS DataBase on 06/16/20 at 12:10:52.
+ _____________________________________________________________________________ 
+|                                                                             |
+|         Antenna Reference Point(ARP): BOONE COUNTY CORS ARP                 |
+|         ---------------------------------------------------                 |
+|                             PID = DH9007                                    |
+|                                                                             |
+|                                                                             |
+| ITRF2014 POSITION (EPOCH 2010.0)                                            |
+| Computed in Jun 2019 using data through gpswk 1933.                         |
+|     X =    456195.592 m     latitude    =  39 02 18.06114 N                 |
+|     Y =  -4939808.156 m     longitude   = 084 43 25.14334 W                 |
+|     Z =   3995772.044 m     ellipsoid height =  233.749   m                 |
+|                                                                             |
+| ITRF2014 VELOCITY                                                           |
+| Computed in Jun 2019 using data through gpswk 1933.                         |
+|     VX =  -0.0148 m/yr      northward =   0.0016 m/yr                       |
+|     VY =   0.0009 m/yr      eastward  =  -0.0147 m/yr                       |
+|     VZ =   0.0002 m/yr      upward    =  -0.0016 m/yr                       |
+|                                                                             |
+|                                                                             |
+| NAD_83 (2011) POSITION (EPOCH 2010.0)                                       |
+| Transformed from ITRF2014 (epoch 2010.0) position in Jun 2019.              |
+|     X =    456196.344 m     latitude    =  39 02 18.03345 N                 |
+|     Y =  -4939809.572 m     longitude   = 084 43 25.11763 W                 |
+|     Z =   3995772.144 m     ellipsoid height =  234.961   m                 |
+|                                                                             |
+| NAD_83 (2011) VELOCITY                                                      |
+| Transformed from ITRF2014 velocity in Jun 2019.                             |
+|     VX =   0.0019 m/yr      northward =  -0.0000 m/yr                       |
+|     VY =   0.0021 m/yr      eastward  =   0.0021 m/yr                       |
+|     VZ =  -0.0016 m/yr      upward    =  -0.0025 m/yr                       |
+|_____________________________________________________________________________|
+|                                                                             |
+| L1 Phase Center of the current GPS antenna: BOONE COUNTY CORS L1PC          |
+| ---------------------------------------------------------------------       |
+| The Zephyr 3 Geodetic; switchable MSS filter antenna                        |
+| (Antenna Code = TRM115000.00    NONE) was installed on 11May2017.           |
+|        The L2 phase center is 0.007 m below the L1 phase center.            |
+|                             PID = DQ6461                                    |
+|                                                                             |
+|                                                                             |
+| ITRF2014 POSITION (EPOCH 2010.0)                                            |
+| Computed in Jun 2019 using data through gpswk 1933.                         |
+|     X =    456195.596 m     latitude    =  39 02 18.06116 N                 |
+|     Y =  -4939808.206 m     longitude   = 084 43 25.14335 W                 |
+|     Z =   3995772.085 m     ellipsoid height =  233.814   m                 |
+|                                                                             |
+| The ITRF2014 VELOCITY of the L1 PC is the same as that for the ARP.         |
+|                                                                             |
+|                                                                             |
+| NAD_83 (2011) POSITION (EPOCH 2010.0)                                       |
+| Transformed from ITRF2014 (epoch 2010.0) position in Jun 2019.              |
+|     X =    456196.348 m     latitude    =  39 02 18.03347 N                 |
+|     Y =  -4939809.622 m     longitude   = 084 43 25.11764 W                 |
+|     Z =   3995772.185 m     ellipsoid height =  235.026   m                 |
+|                                                                             |
+| The NAD_83 (2011) VELOCITY of the L1 PC is the same as that for the ARP.    |
+|_____________________________________________________________________________|
+
+
+ * Latitude, longitude and ellipsoid height are computed from their
+   corresponding cartesian coordinates using dimensions for the
+   GRS 80 ellipsoid: semi-major axis = 6,378,137.0 meters
+                          flattening = 1/298.257222101...
+
+
+ * WARNING: Mixing of antenna types can lead to errors of up to 10 cm.
+   in height unless antenna-phase-center variation and antenna-phase-center
+   offset are properly modeled.  See next comment.
+
+ * The coordinates shown on this page were computed using absolute antenna
+   calibrations.  CORS coordinates began using absolute antenna calibrations
+   beginning with IGS08 and NAD 83 (2011, MA11, PA11).  For additional
+   information on the derivation of these positions and velocities and
+   antenna calibrations consult:
+   http://geodesy.noaa.gov/CORS/coords.shtml
+   http://geodesy.noaa.gov/ANTCAL
+
+
+ * For more site specific information on the equipment history and
+   monumentation type consult:
+   ftp://geodesy.noaa.gov/cors/station_log/kybo.log.txt
+   http://geodesy.noaa.gov/cgi-cors/corsage_2.prl?site=kybo
+
+
+ * The position & velocity were revised in Aug 2011.
+ * The position & velocity were revised in Jun 2019.
+ </pre>

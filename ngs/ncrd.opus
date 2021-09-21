@@ -1,0 +1,46 @@
+  USER: mike@hyfix.ai                           DATE: August 31, 2021
+RINEX FILE: ncrd2420.21o                            TIME: 03:15:31 UTC
+
+
+  SOFTWARE: page5  2008.25 master70.pl 160321      START: 2021/08/30  00:00:00
+ EPHEMERIS: igu21731.eph [ultra-rapid]              STOP: 2021/08/30  23:59:00
+  NAV FILE: brdc2420.21n                        OBS USED: 58143 / 62642   :  93%
+  ANT NAME: NONE            NONE             # FIXED AMB:   284 /   325   :  87%
+ARP HEIGHT: 0.000                            OVERALL RMS: 0.016(m)
+
+
+ REF FRAME: NAD_83(2011)(EPOCH:2010.0000)              ITRF2014 (EPOCH:2021.6616)
+     
+         X:      1026004.380(m)   0.001(m)           1026003.474(m)   0.001(m)
+         Y:     -5078806.099(m)   0.005(m)          -5078804.622(m)   0.005(m)
+         Z:      3706983.266(m)   0.002(m)           3706983.181(m)   0.002(m)
+
+       LAT:   35 45 49.50817      0.003(m)        35 45 49.53679      0.003(m)
+     E LON:  281 25 15.60515      0.001(m)       281 25 15.58142      0.001(m)
+     W LON:   78 34 44.39485      0.001(m)        78 34 44.41858      0.001(m)
+    EL HGT:           51.839(m)   0.005(m)                50.469(m)   0.005(m)
+ ORTHO HGT:           85.076(m)   0.039(m) [NAVD88 (Computed using GEOID18)]
+
+                        UTM COORDINATES    STATE PLANE COORDINATES
+                         UTM (Zone 17)         SPC (3200   NC)
+Northing (Y) [meters]     3960449.108           223469.881
+Easting (X)  [meters]      718868.855           647669.706
+Convergence  [degrees]     1.41550278           0.24298889
+Point Scale                1.00019033           0.99991242
+Combined Factor            1.00018219           0.99990428
+
+US NATIONAL GRID DESIGNATOR: 17SQV1886860449(NAD 83)
+
+
+                              BASE STATIONS USED
+PID       DESIGNATION                        LATITUDE    LONGITUDE DISTANCE(m)
+DK7576 NCNA NASHVILLE CORS ARP             N355809.068 W0780111.341   55408.5
+DG9328 DURH DURHAM COOP CORS ARP           N355946.129 W0785358.036   38759.6
+DK6525 NCSF SMITHFIELD CORS ARP            N353349.609 W0782010.805   31225.9
+
+                 NEAREST NGS PUBLISHED CONTROL POINT
+DG4687      RALEIGH DOT CORS ARP           N354549.507 W0783444.394       0.0
+
+This position and the above vector components were computed without any
+knowledge by the National Geodetic Survey regarding the equipment or
+field operating procedures used.

@@ -1,0 +1,46 @@
+ USER: mike@hyfix.ai                           DATE: August 31, 2021
+RINEX FILE: tn31242a.21o                            TIME: 03:15:33 UTC
+
+
+  SOFTWARE: page5  2008.25 master90.pl 160321      START: 2021/08/30  00:00:00
+ EPHEMERIS: igu21731.eph [ultra-rapid]              STOP: 2021/08/30  18:59:00
+  NAV FILE: brdc2420.21n                        OBS USED: 47660 / 52305   :  91%
+  ANT NAME: NONE            NONE             # FIXED AMB:   275 /   292   :  94%
+ARP HEIGHT: 0.000                            OVERALL RMS: 0.016(m)
+
+
+ REF FRAME: NAD_83(2011)(EPOCH:2010.0000)              ITRF2014 (EPOCH:2021.6614)
+     
+         X:       281409.806(m)   0.006(m)            281408.902(m)   0.006(m)
+         Y:     -5147273.895(m)   0.002(m)          -5147272.459(m)   0.002(m)
+         Z:      3743529.003(m)   0.003(m)           3743528.880(m)   0.003(m)
+
+       LAT:   36 10 13.05631      0.003(m)        36 10 13.08151      0.003(m)
+     E LON:  273  7 45.61594      0.006(m)       273  7 45.58296      0.006(m)
+     W LON:   86 52 14.38406      0.006(m)        86 52 14.41704      0.006(m)
+    EL HGT:          113.161(m)   0.003(m)               111.891(m)   0.003(m)
+ ORTHO HGT:          142.544(m)   0.048(m) [NAVD88 (Computed using GEOID18)]
+
+                        UTM COORDINATES    STATE PLANE COORDINATES
+                         UTM (Zone 16)         SPC (4100   TN)
+Northing (Y) [meters]     4002844.500           204158.935
+Easting (X)  [meters]      511631.795           521670.734
+Convergence  [degrees]     0.07633333          -0.50971944
+Point Scale                0.99960167           0.99996557
+Combined Factor            0.99958392           0.99994781
+
+US NATIONAL GRID DESIGNATOR: 16SEF1163102844(NAD 83)
+
+
+                              BASE STATIONS USED
+PID       DESIGNATION                        LATITUDE    LONGITUDE DISTANCE(m)
+DK7594 TN38 TDOT MURFREESBORO CORS ARP     N355345.975 W0862637.286   49056.0
+DJ9558 TN35 TDOT DISTRICT 35 CORS ARP      N360614.153 W0873721.522   68084.8
+DJ9562 TN37 TDOT COLUMBIA CORS ARP         N353613.757 W0870537.696   66005.5
+
+                 NEAREST NGS PUBLISHED CONTROL POINT
+DJ9550      TDOT DISTRICT 31 CORS ARP      N361013.056 W0865214.384       0.0
+
+This position and the above vector components were computed without any
+knowledge by the National Geodetic Survey regarding the equipment or
+field operating procedures used.

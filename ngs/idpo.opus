@@ -1,0 +1,46 @@
+ USER: mike@hyfix.ai                           DATE: September 01, 2021
+RINEX FILE: idpo2420.21o                            TIME: 19:44:49 UTC
+
+
+  SOFTWARE: page5  2008.25 master94.pl 160321      START: 2021/08/30  00:00:00
+ EPHEMERIS: igr21731.eph [rapid]                    STOP: 2021/08/30  23:59:00
+  NAV FILE: brdc2420.21n                        OBS USED: 58842 / 63516   :  93%
+  ANT NAME: NONE            NONE             # FIXED AMB:   346 /   366   :  95%
+ARP HEIGHT: 0.000                            OVERALL RMS: 0.014(m)
+
+
+ REF FRAME: NAD_83(2011)(EPOCH:2010.0000)              ITRF2014 (EPOCH:2021.6616)
+     
+         X:     -1787004.032(m)   0.007(m)          -1787005.018(m)   0.007(m)
+         Y:     -4328787.398(m)   0.005(m)          -4328786.132(m)   0.005(m)
+         Z:      4317505.358(m)   0.006(m)           4317505.257(m)   0.006(m)
+
+       LAT:   42 51 55.99490      0.009(m)        42 51 56.01002      0.009(m)
+     E LON:  247 34  5.71220      0.005(m)       247 34  5.65075      0.005(m)
+     W LON:  112 25 54.28780      0.005(m)       112 25 54.34925      0.005(m)
+    EL HGT:         1380.136(m)   0.002(m)              1379.485(m)   0.002(m)
+ ORTHO HGT:         1392.790(m)   0.042(m) [NAVD88 (Computed using GEOID18)]
+
+                        UTM COORDINATES    STATE PLANE COORDINATES
+                         UTM (Zone 12)         SPC (1101 ID E)
+Northing (Y) [meters]     4746879.168           133197.650
+Easting (X)  [meters]      383045.649           178339.192
+Convergence  [degrees]    -0.97410000          -0.18033056
+Point Scale                0.99976828           0.99995314
+Combined Factor            0.99955194           0.99973676
+
+US NATIONAL GRID DESIGNATOR: 12TUN8304546879(NAD 83)
+
+
+                              BASE STATIONS USED
+PID       DESIGNATION                        LATITUDE    LONGITUDE DISTANCE(m)
+DI1692 IDBY REXBURG CORS ARP               N434913.279 W1114700.726  118409.6
+DI1069 IDIF IDAHO FALLS CORS ARP           N433106.881 W1120307.152   78859.8
+DP5997 IDNL IDAHO NAT LAB CORS ARP         N433253.368 W1130032.640   89193.9
+
+                 NEAREST NGS PUBLISHED CONTROL POINT
+DG6570      POCATELLO CORS ARP             N425155.995 W1122554.287       0.0
+
+This position and the above vector components were computed without any
+knowledge by the National Geodetic Survey regarding the equipment or
+field operating procedures used.

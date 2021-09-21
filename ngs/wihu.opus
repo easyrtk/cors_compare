@@ -1,0 +1,46 @@
+   USER: mike@hyfix.ai                           DATE: August 29, 2021
+RINEX FILE: wihu2400.21o                            TIME: 17:20:47 UTC
+
+
+  SOFTWARE: page5  2008.25 master94.pl 160321      START: 2021/08/28  00:00:00
+ EPHEMERIS: igu21726.eph [ultra-rapid]              STOP: 2021/08/28  23:59:00
+  NAV FILE: brdc2400.21n                        OBS USED: 60591 / 63557   :  95%
+  ANT NAME: NONE            NONE             # FIXED AMB:   236 /   261   :  90%
+ARP HEIGHT: 0.000                            OVERALL RMS: 0.016(m)
+
+
+ REF FRAME: NAD_83(2011)(EPOCH:2010.0000)              ITRF2014 (EPOCH:2021.6562)
+     
+         X:      -205922.308(m)   0.004(m)           -205923.271(m)   0.004(m)
+         Y:     -4516301.036(m)   0.013(m)          -4516299.726(m)   0.013(m)
+         Z:      4484350.796(m)   0.014(m)           4484350.730(m)   0.014(m)
+
+       LAT:   44 57 33.41041      0.004(m)        44 57 33.43784      0.004(m)
+     E LON:  267 23 21.79396      0.004(m)       267 23 21.74734      0.004(m)
+     W LON:   92 36 38.20604      0.004(m)        92 36 38.25266      0.004(m)
+    EL HGT:          287.743(m)   0.018(m)               286.802(m)   0.018(m)
+ ORTHO HGT:          317.436(m)   0.044(m) [NAVD88 (Computed using GEOID18)]
+
+                        UTM COORDINATES    STATE PLANE COORDINATES
+                         UTM (Zone 15)         SPC (4802 WI C)
+Northing (Y) [meters]     4978500.756           128424.770
+Easting (X)  [meters]      530711.399           394063.177
+Convergence  [degrees]     0.27514444          -1.84198611
+Point Scale                0.99961160           0.99994175
+Combined Factor            0.99956651           0.99989664
+
+US NATIONAL GRID DESIGNATOR: 15TWK3071178500(NAD 83)
+
+
+                              BASE STATIONS USED
+PID       DESIGNATION                        LATITUDE    LONGITUDE DISTANCE(m)
+DE9155 ZMP1 MINNEAPOLIS WAAS CORS ARP      N443814.840 W0930907.466   55809.5
+DQ4197 WICH CHETEK CORS ARP                N451429.486 W0913545.095   85811.2
+DL9804 MNOK OAKDALE CORS ARP               N445956.369 W0925748.818   28187.8
+
+                 NEAREST NGS PUBLISHED CONTROL POINT
+DO7288      HUDSON CORS ARP                N445733.410 W0923638.206       0.0
+
+This position and the above vector components were computed without any
+knowledge by the National Geodetic Survey regarding the equipment or
+field operating procedures used.

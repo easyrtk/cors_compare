@@ -1,0 +1,46 @@
+USER: mike@hyfix.ai                           DATE: September 01, 2021
+RINEX FILE: scwt2430.21o                            TIME: 01:19:16 UTC
+
+
+  SOFTWARE: page5  2008.25 master53.pl 160321      START: 2021/08/31  00:00:00
+ EPHEMERIS: igu21732.eph [ultra-rapid]              STOP: 2021/08/31  23:59:00
+  NAV FILE: brdc2430.21n                        OBS USED: 59879 / 63565   :  94%
+  ANT NAME: NONE            NONE             # FIXED AMB:   305 /   329   :  93%
+ARP HEIGHT: 0.000                            OVERALL RMS: 0.017(m)
+
+
+ REF FRAME: NAD_83(2011)(EPOCH:2010.0000)              ITRF2014 (EPOCH:2021.6643)
+     
+         X:       869161.209(m)   0.007(m)            869160.326(m)   0.007(m)
+         Y:     -5289362.890(m)   0.008(m)          -5289361.385(m)   0.008(m)
+         Z:      3444970.699(m)   0.015(m)           3444970.581(m)   0.015(m)
+
+       LAT:   32 54 12.35315      0.017(m)        32 54 12.37864      0.017(m)
+     E LON:  279 19 53.72612      0.006(m)       279 19 53.70200      0.006(m)
+     W LON:   80 40  6.27388      0.006(m)        80 40  6.29800      0.006(m)
+    EL HGT:           -1.905(m)   0.002(m)                -3.336(m)   0.002(m)
+ ORTHO HGT:           29.781(m)   0.040(m) [NAVD88 (Computed using GEOID18)]
+
+                        UTM COORDINATES    STATE PLANE COORDINATES
+                         UTM (Zone 17)         SPC (3900   SC)
+Northing (Y) [meters]     3640630.171           118723.960
+Easting (X)  [meters]      531009.583           640618.216
+Convergence  [degrees]     0.18013056           0.18383333
+Point Scale                0.99961186           0.99988231
+Combined Factor            0.99961216           0.99988261
+
+US NATIONAL GRID DESIGNATOR: 17SNS3100940630(NAD 83)
+
+
+                              BASE STATIONS USED
+PID       DESIGNATION                        LATITUDE    LONGITUDE DISTANCE(m)
+DP8346 GASA SAVANNAH STATE U CORS ARP      N320125.492 W0810336.761  104273.5
+DO8857 GAAU AUGUSTA UTILITIES CORS ARP     N332817.117 W0820201.783  142059.3
+DN7486 GAAE AUGUSTA ENG CORS ARP           N332538.051 W0820404.043  142872.6
+
+                 NEAREST NGS PUBLISHED CONTROL POINT
+DH8997      WALTERBORO CORS ARP            N325412.353 W0804006.273       0.0
+
+This position and the above vector components were computed without any
+knowledge by the National Geodetic Survey regarding the equipment or
+field operating procedures used.

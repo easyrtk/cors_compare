@@ -1,0 +1,93 @@
+ <pre>                              ***ITRF2014***
+                DARTMOUTH (MADA),  MASSACHUSETTS
+
+ Retrieved from NGS DataBase on 05/18/21 at 21:42:39.
+ _____________________________________________________________________________ 
+|                                                                             |
+|         Antenna Reference Point(ARP): DARTMOUTH CORS ARP                    |
+|         ------------------------------------------------                    |
+|                             PID = DO9467                                    |
+|                                                                             |
+|                                                                             |
+| ITRF2014 POSITION (EPOCH 2010.0)                                            |
+| Computed in May 2021 using 14 days of data.                                 |
+|     X =   1551941.421 m     latitude    =  41 38 22.88266 N                 |
+|     Y =  -4514373.701 m     longitude   = 071 01 41.40531 W                 |
+|     Z =   4215782.906 m     ellipsoid height =    5.159   m                 |
+|                                                                             |
+| ITRF2014 VELOCITY                                                           |
+| Computed in Jun 2019 using data through gpswk 1933.                         |
+|     VX =  -0.0154 m/yr      northward =   0.0051 m/yr                       |
+|     VY =  -0.0013 m/yr      eastward  =  -0.0150 m/yr                       |
+|     VZ =   0.0035 m/yr      upward    =  -0.0005 m/yr                       |
+|                                                                             |
+|                                                                             |
+| NAD_83 (2011) POSITION (EPOCH 2010.0)                                       |
+| Transformed from ITRF2014 (epoch 2010.0) position in May 2021.              |
+|     X =   1551942.196 m     latitude    =  41 38 22.84883 N                 |
+|     Y =  -4514375.147 m     longitude   = 071 01 41.39394 W                 |
+|     Z =   4215782.949 m     ellipsoid height =    6.398   m                 |
+|                                                                             |
+| NAD_83 (2011) VELOCITY                                                      |
+| Transformed from ITRF2014 velocity in May 2021.                             |
+|     VX =   0.0019 m/yr      northward =  -0.0022 m/yr                       |
+|     VY =   0.0002 m/yr      eastward  =   0.0019 m/yr                       |
+|     VZ =  -0.0025 m/yr      upward    =  -0.0013 m/yr                       |
+|_____________________________________________________________________________|
+|                                                                             |
+| L1 Phase Center of the current GPS antenna: DARTMOUTH CORS L1PC             |
+| ------------------------------------------------------------------          |
+| The Multi purpose GNSS choke ring antenna GP antenna                        |
+| (Antenna Code = LEIAR20         LEIM) was installed on 02May2019.           |
+|        The L2 phase center is 0.007 m above the L1 phase center.            |
+|                             PID = DR3629                                    |
+|                                                                             |
+|                                                                             |
+| ITRF2014 POSITION (EPOCH 2010.0)                                            |
+| Computed in May 2021 using 14 days of data.                                 |
+|     X =   1551941.451 m     latitude    =  41 38 22.88269 N                 |
+|     Y =  -4514373.789 m     longitude   = 071 01 41.40530 W                 |
+|     Z =   4215782.989 m     ellipsoid height =    5.284   m                 |
+|                                                                             |
+| The ITRF2014 VELOCITY of the L1 PC is the same as that for the ARP.         |
+|                                                                             |
+|                                                                             |
+| NAD_83 (2011) POSITION (EPOCH 2010.0)                                       |
+| Transformed from ITRF2014 (epoch 2010.0) position in May 2021.              |
+|     X =   1551942.226 m     latitude    =  41 38 22.84885 N                 |
+|     Y =  -4514375.234 m     longitude   = 071 01 41.39394 W                 |
+|     Z =   4215783.032 m     ellipsoid height =    6.522   m                 |
+|                                                                             |
+| The NAD_83 (2011) VELOCITY of the L1 PC is the same as that for the ARP.    |
+|_____________________________________________________________________________|
+
+
+ * Latitude, longitude and ellipsoid height are computed from their
+   corresponding cartesian coordinates using dimensions for the
+   GRS 80 ellipsoid: semi-major axis = 6,378,137.0 meters
+                          flattening = 1/298.257222101...
+
+
+ * WARNING: Mixing of antenna types can lead to errors of up to 10 cm.
+   in height unless antenna-phase-center variation and antenna-phase-center
+   offset are properly modeled.  See next comment.
+
+ * The coordinates shown on this page were computed using absolute antenna
+   calibrations.  CORS coordinates began using absolute antenna calibrations
+   beginning with IGS08 and NAD 83 (2011, MA11, PA11).  For additional
+   information on the derivation of these positions and velocities and
+   antenna calibrations consult:
+   http://geodesy.noaa.gov/CORS/coords.shtml
+   http://geodesy.noaa.gov/ANTCAL
+
+
+ * For more site specific information on the equipment history and
+   monumentation type consult:
+   ftp://geodesy.noaa.gov/cors/station_log/mada.log.txt
+   http://geodesy.noaa.gov/cgi-cors/corsage_2.prl?site=mada
+
+
+ * The position & velocity were revised in Jun 2019.
+ * The position & velocity were revised in May 2020.
+ * The position & velocity were revised in May 2021.
+ </pre>

@@ -1,0 +1,66 @@
+FILE: txda2300_30s.21o OP1629666961971
+
+ 1009   WARNING! You selected antenna type ‘NONE’, so no calibration was applied.
+ 1009   Coordinates with reduced accuracy were computed for your antenna phase center.
+ 1009   For help identifying yours, or to add a new type, contact ngs.antcal@noaa.gov
+ 1009
+ 1008   NOTE: You provided a zero or negative antenna height.
+ 1008   If ARP HGT = 0.0, OPUS solves for the position of your selected antenna's reference point (ARP).
+ 1008   If ARP HGT < 0.0, OPUS solves for a location inside or above the antenna
+ 1008
+                              NGS OPUS SOLUTION REPORT
+                              ========================
+
+All computed coordinate accuracies are listed as peak-to-peak values.
+For additional information: https://www.ngs.noaa.gov/OPUS/about.jsp#accuracy
+OPUS: the Online Positioning User Service, process your GNSS data in the National Spatial Reference System
+What is OPUS? NOAA's Online Positioning User Service (OPUS) provides free access to high-accuracy National Spatial Reference System (NSRS) coordinates. OPUS uses software which computes coordinates using the NOAA CORS Network (NCN).. To use OPUS, simply upload a GPS data file (collected with a survey-grade GPS receiver) to the OPUS upload page. Your computed NSRS position will be emailed to you.
+www.ngs.noaa.gov
+
+
+      USER: mike@hyfix.ai                           DATE: August 22, 2021
+RINEX FILE: txda2300.21o                            TIME: 21:19:45 UTC
+
+
+  SOFTWARE: page5  2008.25 master90.pl 160321      START: 2021/08/18  00:00:00
+ EPHEMERIS: igr21713.eph [rapid]                    STOP: 2021/08/18  23:59:00
+  NAV FILE: brdc2300.21n                        OBS USED: 59180 / 62469   :  95%
+  ANT NAME: NONE            NONE             # FIXED AMB:   252 /   297   :  85%
+ARP HEIGHT: 0.000                            OVERALL RMS: 0.017(m)
+
+
+ REF FRAME: NAD_83(2011)(EPOCH:2010.0000)              ITRF2014 (EPOCH:2021.6287)
+     
+         X:      -623611.416(m)   0.010(m)           -623612.295(m)   0.010(m)
+         Y:     -5330304.746(m)   0.013(m)          -5330303.312(m)   0.013(m)
+         Z:      3435421.272(m)   0.006(m)           3435421.092(m)   0.006(m)
+
+       LAT:   32 47 59.92699      0.007(m)        32 47 59.94535      0.007(m)
+     E LON:  263 19 37.54783      0.009(m)       263 19 37.50787      0.009(m)
+     W LON:   96 40 22.45217      0.009(m)        96 40 22.49213      0.009(m)
+    EL HGT:          161.951(m)   0.014(m)               160.742(m)   0.014(m)
+ ORTHO HGT:          188.003(m)   0.057(m) [NAVD88 (Computed using GEOID18)]
+
+                        UTM COORDINATES    STATE PLANE COORDINATES
+                         UTM (Zone 14)         SPC (4202 TXNC)
+Northing (Y) [meters]     3631510.944          2127160.806
+Easting (X)  [meters]      717901.797           771103.501
+Convergence  [degrees]     1.26110278           0.99648889
+Point Scale                1.00018550           0.99988221
+Combined Factor            1.00016007           0.99985679
+
+US NATIONAL GRID DESIGNATOR: 14SQB1790131510(NAD 83)
+
+
+                              BASE STATIONS USED
+PID       DESIGNATION                        LATITUDE    LONGITUDE DISTANCE(m)
+DF8986 TXDE DENTON CORS ARP                N331237.612 W0970945.970   64560.1
+DH7149 TXSG SAGINAW TX CORS ARP            N325120.555 W0972038.984   63157.3
+DH7145 TXKE KEENE CORS ARP                 N322434.932 W0971923.622   74832.3
+
+                 NEAREST NGS PUBLISHED CONTROL POINT
+DF8984      DALLAS CORS ARP                N324759.927 W0964022.453       0.0
+
+This position and the above vector components were computed without any
+knowledge by the National Geodetic Survey regarding the equipment or
+field operating procedures used.

@@ -1,0 +1,46 @@
+      USER: mike@hyfix.ai                           DATE: September 01, 2021
+RINEX FILE: blom2420.21o                            TIME: 19:43:39 UTC
+
+
+  SOFTWARE: page5  2008.25 master96.pl 160321      START: 2021/08/30  00:00:00
+ EPHEMERIS: igr21731.eph [rapid]                    STOP: 2021/08/30  23:59:00
+  NAV FILE: brdc2420.21n                        OBS USED: 56025 / 62347   :  90%
+  ANT NAME: NONE            NONE             # FIXED AMB:   304 /   323   :  94%
+ARP HEIGHT: 0.000                            OVERALL RMS: 0.018(m)
+
+
+ REF FRAME: NAD_83(2011)(EPOCH:2010.0000)              ITRF2014 (EPOCH:2021.6616)
+     
+         X:        84784.361(m)   0.005(m)             84783.427(m)   0.005(m)
+         Y:     -4856566.614(m)   0.010(m)          -4856565.238(m)   0.010(m)
+         Z:      4120125.014(m)   0.003(m)           4120124.919(m)   0.003(m)
+
+       LAT:   40 29 44.28222      0.006(m)        40 29 44.30918      0.006(m)
+     E LON:  271  0  0.53816      0.005(m)       271  0  0.49954      0.005(m)
+     W LON:   88 59 59.46184      0.005(m)        88 59 59.50046      0.005(m)
+    EL HGT:          206.040(m)   0.008(m)               204.920(m)   0.008(m)
+ ORTHO HGT:          238.129(m)   0.043(m) [NAVD88 (Computed using GEOID18)]
+
+                        UTM COORDINATES    STATE PLANE COORDINATES
+                         UTM (Zone 16)         SPC (1201 IL E)
+Northing (Y) [meters]     4484691.170           425247.254
+Easting (X)  [meters]      330528.509           243498.377
+Convergence  [degrees]    -1.29899167          -0.43284167
+Point Scale                0.99995354           1.00001428
+Combined Factor            0.99992122           0.99998196
+
+US NATIONAL GRID DESIGNATOR: 16TCK3052884691(NAD 83)
+
+
+                              BASE STATIONS USED
+PID       DESIGNATION                        LATITUDE    LONGITUDE DISTANCE(m)
+DK6382 KA18 KANKAKEE CC CORS ARP           N410555.271 W0875102.758  117851.0
+DK4053 KA12 KARA CO 12 CORS ARP            N395225.338 W0885531.988   69348.8
+DL2304 KA21 WOODFORD CORS ARP              N404729.312 W0891145.766   36807.2
+
+                 NEAREST NGS PUBLISHED CONTROL POINT
+DL6165      CITYBLOOMINGTONIL CORS ARP     N402944.282 W0885959.461       0.0
+
+This position and the above vector components were computed without any
+knowledge by the National Geodetic Survey regarding the equipment or
+field operating procedures used.
