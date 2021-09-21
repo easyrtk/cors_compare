@@ -1,0 +1,8 @@
+{
+    "cors_name": "SW",
+    "cors_ip": "na.skylark.swiftnav.com", 
+    "cors_port": "2101", 
+    "cors_mp": "CRS",
+    "cors_username": <<yourusername>>,
+    "cors_password": <<yourpassword>>
+}

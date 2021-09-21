@@ -1,0 +1,8 @@
+{
+    "cors_name": "SN",
+    "cors_ip": "ca.smartnetna.com", 
+    "cors_port": "10000", 
+    "cors_mp": "MSM_VIRS",
+    "cors_username": <<yourusername>>,
+    "cors_password": <<yourpassword>>
+}

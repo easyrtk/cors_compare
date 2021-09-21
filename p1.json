@@ -1,0 +1,8 @@
+{
+    "cors_name": "P1",
+    "cors_ip": "ntrip.polaris.pointonenav.com", 
+    "cors_port": "2101", 
+    "cors_mp": "POLARIS",
+    "cors_username": <<yourusername>>,
+    "cors_password": <<yourpassword>>
+}
